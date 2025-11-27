@@ -578,7 +578,7 @@
   {
     "jp": "おひとり様◎",
     "en": "Maverick ◎",
-    "desc": "Increase performance when no other runners are using the same strategy.",
+    "desc": "Greatly increase performance when no other runners are using the same strategy.",
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
@@ -587,7 +587,7 @@
   {
     "jp": "おひとり様○",
     "en": "Maverick ○",
-    "desc": "Moderately increase performance when no other runners are using the same strategy.",
+    "desc": "Increase performance when no other runners are using the same strategy.",
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
@@ -596,7 +596,7 @@
   {
     "jp": "対抗意識◎",
     "en": "Competitive Spirit ◎",
-    "desc": "Increase performance when at least 5 other runners are using the same strategy.",
+    "desc": "Increase performance when many other runners are using the same strategy.",
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
@@ -605,7 +605,7 @@
   {
     "jp": "対抗意識○",
     "en": "Competitive Spirit ○",
-    "desc": "Moderately increase performance when at least 5 other runners are using the same strategy.",
+    "desc": "Moderately increase performance when many other runners are using the same strategy.",
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
@@ -767,7 +767,7 @@
   {
     "jp": "隠れ蓑",
     "en": "Lay Low",
-    "desc": "Slightly recover endurance when the way ahead is jammed early-race.",
+    "desc": "Slightly recover endurance when the way ahead is jammed early-race or mid-race.",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -776,7 +776,7 @@
   {
     "jp": "ポジションセンス",
     "en": "Prudent Positioning",
-    "desc": "Moderately increase navigation early-race.",
+    "desc": "Increase navigation early-race.",
     "sp_cost": 120,
     "satei": 129,
     "ratio": 1.07,
@@ -866,7 +866,7 @@
   {
     "jp": "スタミナキープ",
     "en": "Stamina to Spare",
-    "desc": "Slightly decrease fatigue early-race. (Pace Chaser)",
+    "desc": "Slightly decrease fatigue upon approaching mid-race. (Pace Chaser)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
@@ -929,7 +929,7 @@
   {
     "jp": "仕掛け抜群",
     "en": "Masterful Gambit",
-    "desc": "Slightly move up in preparation to close the gap late-race. (End Closer)",
+    "desc": "Slightly move up in preparation to close the gap when positioned toward the back late-race. (End Closer)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
@@ -956,7 +956,7 @@
   {
     "jp": "様子見",
     "en": "Wait-and-See",
-    "desc": "Slightly decrease fatigue when positioned toward the back mid-race. (Sprint)",
+    "desc": "Slightly decrease fatigue and very slightly increase acceleration when positioned toward the back mid-race. (Sprint)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -974,7 +974,7 @@
   {
     "jp": "積極策",
     "en": "Productive Plan",
-    "desc": "Slightly widen the margin when in the lead early-race. (Mile)",
+    "desc": "Slightly widen the margin when positioned toward the front early-race. (Mile)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -983,7 +983,7 @@
   {
     "jp": "展開窺い",
     "en": "Watchful Eye",
-    "desc": "Slightly decrease fatigue when positioned toward the back early-race. (Mile)",
+    "desc": "Slightly decrease fatigue, then very slightly decrease velocity of runners ahead when positioned toward the back upon approaching mid-race. (Mile)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -1001,7 +1001,7 @@
   {
     "jp": "前途洋々",
     "en": "Rosy Outlook",
-    "desc": "Slightly decrease fatigue when in the lead mid-race. (Medium)",
+    "desc": "Slightly decrease fatigue when positioned toward the front mid-race. (Medium)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -1046,7 +1046,7 @@
   {
     "jp": "別腹タンク",
     "en": "Extra Tank",
-    "desc": "Slightly regain the energy to run after exhausting strength. (Long)",
+    "desc": "Slightly regain the energy to run when close to exhausting strength. (Long)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -1262,7 +1262,7 @@
   {
     "jp": "善後策",
     "en": "Countermeasure",
-    "desc": "Slightly increase passing ability when positioned toward the front mid-race. (Sprint)",
+    "desc": "Slightly increase passing ability when positioned toward the front upon approaching late-race. (Sprint)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -1271,7 +1271,7 @@
   {
     "jp": "仕掛け準備",
     "en": "Meticulous Measures",
-    "desc": "Moderately prepare to make for the finish line mid-race. (Sprint)",
+    "desc": "Moderately prepare to make for the finish line for a medium duration mid-race. (Sprint)",
     "sp_cost": 140,
     "satei": 174,
     "ratio": 1.24,
@@ -1289,7 +1289,7 @@
   {
     "jp": "抜け駆け禁止",
     "en": "Stop Right There!",
-    "desc": "Slightly cause panic in runners ahead when positioned toward the back early-race. (Sprint)",
+    "desc": "Slightly cause panic in and very slightly dull movement for runners ahead when positioned toward the back early-race. (Sprint)",
     "sp_cost": 170,
     "satei": 262,
     "ratio": 1.54,
@@ -1361,7 +1361,7 @@
   {
     "jp": "スピードイーター",
     "en": "Speed Eater",
-    "desc": "Slightly steal velocity from runners behind when in the lead mid-race. (Mile)",
+    "desc": "Slightly steal velocity from runners behind when positioned toward the front mid-race. (Mile)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -1424,7 +1424,7 @@
   {
     "jp": "イナズマステップ",
     "en": "Thunderbolt Step",
-    "desc": "Moderately avoid becoming surrounded when positioned toward the back mid-race. (Medium)",
+    "desc": "Moderately avoid becoming surrounded for a medium duration when positioned toward the back mid-race. (Medium)",
     "sp_cost": 140,
     "satei": 174,
     "ratio": 1.24,
@@ -1496,7 +1496,7 @@
   {
     "jp": "リードキープ",
     "en": "Keeping the Lead",
-    "desc": "Slightly increase ability to maintain the lead when leading by a large margin mid-race. (Long)",
+    "desc": "Slightly increase ability to maintain the lead when leading by a fair margin mid-race. (Long)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
@@ -1586,7 +1586,7 @@
   {
     "jp": "先頭プライド",
     "en": "Leader's Pride",
-    "desc": "Slightly avoid being passed early-race. (Front Runner)",
+    "desc": "Slightly increase ability to pass or challenge another runner early-race or mid-race. (Front Runner)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
@@ -1604,7 +1604,7 @@
   {
     "jp": "二の矢",
     "en": "Second Wind",
-    "desc": "Slightly increase acceleration when positioned toward the back mid-race. (Front Runner)",
+    "desc": "Slightly increase acceleration when not in the lead mid-race. (Front Runner)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
@@ -1613,7 +1613,7 @@
   {
     "jp": "リスタート",
     "en": "Restart",
-    "desc": "Slightly startle runners ahead when failing to get a lead early-race. (Front Runner)",
+    "desc": "Slightly dull movement for runners ahead when not in the lead early-race. (Front Runner)",
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
@@ -1720,7 +1720,7 @@
   },
   {
     "jp": "差しコーナー◎",
-    "en": "Later Surger Corners ◎",
+    "en": "Late Surger Corners ◎",
     "desc": "Moderately increase velocity on a corner. (Late Surger)",
     "sp_cost": 270,
     "satei": 262,
@@ -1739,7 +1739,7 @@
   {
     "jp": "がんばり屋",
     "en": "Fighter",
-    "desc": "Slightly increase passing ability. (Late Surger)",
+    "desc": "Slightly increase acceleration for a medium duration when trying to pass another runner. (Late Surger)",
     "sp_cost": 120,
     "satei": 217,
     "ratio": 1.81,
@@ -2043,171 +2043,171 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "前列狙い",
-    "desc": "レース終盤にコース取りが少し上手くなり加速力がわずかに上がる＜ダート＞",
+    "jp": "前列狙い",
+    "en": "Forward, March!",
+    "desc": "Moderately prepare to aim for the front late-race. (Dirt)",
     "sp_cost": 140,
     "satei": 174,
     "ratio": 1.24,
     "icon": "ic_skill_20051"
   },
   {
-    "jp": "",
-    "en": "静かな呼吸",
-    "desc": "レース中盤が迫ったとき中団以降にいると持久力をわずかに回復する＜作戦・差し＞",
+    "jp": "静かな呼吸",
+    "en": "Be Still",
+    "desc": "Slightly recover endurance when positioned toward the back upon approaching mid-race. (Late Surger)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
     "icon": "ic_skill_20021"
   },
   {
-    "jp": "",
-    "en": "ありったけ",
-    "desc": "終盤の最終直線で好位置にいると速度がわずかに上がる＜中距離＞",
+    "jp": "ありったけ",
+    "en": "All I've Got",
+    "desc": "Slightly increase velocity when well-positioned on a straight in the last spurt. (Medium)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "真っ向勝負",
-    "desc": "レース終盤始めの方で前方にいると加速力がわずかに上がる＜作戦・先行＞",
+    "jp": "真っ向勝負",
+    "en": "Head-On",
+    "desc": "Slightly increase acceleration when positioned toward the front late-race. (Pace Chaser)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
     "icon": "ic_skill_20041"
   },
   {
-    "jp": "",
-    "en": "砂塵慣れ",
-    "desc": "レース中盤に後方にいると持久力がわずかに回復する＜ダート＞",
+    "jp": "砂塵慣れ",
+    "en": "Familiar Ground",
+    "desc": "Slightly recover endurance when positioned toward the back mid-race. (Dirt)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
     "icon": "ic_skill_20021"
   },
   {
-    "jp": "",
-    "en": "影打",
-    "desc": "レース終盤が迫ったとき前方にいると速度がわずかに上がる＜長距離＞",
+    "jp": "影打",
+    "en": "Feature Act",
+    "desc": "Slightly increase velocity when positioned toward the front upon approaching late-race. (Long)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "早仕掛け",
-    "desc": "レース中盤に後方にいるとしばらくの間速度がちょっと上がる＜作戦・追込＞",
+    "jp": "早仕掛け",
+    "en": "Early Start",
+    "desc": "Very slightly increase velocity for a medium duration when positioned toward the back mid-race. (End Closer)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "あやしげな作戦",
-    "desc": "レース後半に速度が少し上がるがすごく疲れてしまうことがある",
+    "jp": "あやしげな作戦",
+    "en": "Risky Business",
+    "desc": "Moderately increase velocity in the second half of the race, but also greatly increase fatigue sometimes.",
     "sp_cost": 120,
     "satei": 129,
     "ratio": 1.07,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "軽い足取り",
-    "desc": "レース終盤が迫ったとき前方にいると速度がわずかに上がる＜短距離＞",
+    "jp": "軽い足取り",
+    "en": "Light as a Feather",
+    "desc": "Slightly increase velocity when positioned toward the front upon approaching late-race. (Sprint)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "マイペース",
-    "desc": "レース中盤始めの方に中団にいると速度をわずかに落として持久力を少し回復する＜長距離＞",
+    "jp": "マイペース",
+    "en": "Free-Spirited",
+    "desc": "If positioned in the midpack around when the mid-race starts, slightly decrease velocity and moderately recover endurance. (Long)",
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
     "icon": "ic_skill_20021"
   },
   {
-    "jp": "",
-    "en": "ワンチャンス",
-    "desc": "レース終盤始めの方で中団以降にいると加速力がわずかに上がる＜中距離＞",
+    "jp": "ワンチャンス",
+    "en": "Take the Chance",
+    "desc": "If positioned toward the back late-race, slightly increase acceleration. (Medium)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20041"
   },
   {
-    "jp": "",
-    "en": "闘争心",
-    "desc": "レース中盤に中団で競り合うと持久力がちょっと回復し速度がわずかに上がる＜中距離＞",
+    "jp": "闘争心",
+    "en": "Fighting Spirit",
+    "desc": "When engaged in a challenge midpack mid-race, very slightly recover endurance and slightly increase velocity. (Medium)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "前のめり",
-    "desc": "レース中盤に後ろの方にいると速度がわずかに上がる＜中距離＞",
+    "jp": "前のめり",
+    "en": "Eager",
+    "desc": "When positioned toward the back mid-race, slightly increase velocity. (Medium)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "気合十分",
-    "desc": "最終コーナーで後ろの方にいると速度がわずかに上がる＜マイル＞",
+    "jp": "気合十分",
+    "en": "Pumped",
+    "desc": "When positioned toward the back on the final corner, slightly increase velocity. (Mile)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "恐れぬ心",
-    "desc": "レース後半に中団にいると速度がわずかに上がり加速力がほんのちょっと上がる＜作戦・差し＞",
+    "jp": "恐れぬ心",
+    "en": "Fearless",
+    "desc": "When positioned in the midpack during the second half of the race, slightly increase velocity and very minimally increase acceleration. (Late Surger)",
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "気迫を込めて",
-    "desc": "レース中盤に前の方にいると後ろの速度をほんのわずかに下げ自分の速度をわずかに上げる＜中距離＞",
+    "jp": "気迫を込めて",
+    "en": "With All My Soul",
+    "desc": "When positioned toward the front mid-race, slightly increase velocity and minimally decrease the velocity of runners behind the skill user. (Medium)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "フルスロットル",
-    "desc": "レース中盤に持久力を少し使って速度を少し上げる＜作戦・差し＞",
+    "jp": "フルスロットル",
+    "en": "Full Throttle",
+    "desc": "Greatly consume endurance mid-race and moderately increase velocity. (Late Surger)",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "自制心",
-    "desc": "賢さが上がり、少し掛かりづらくなる",
+    "jp": "自制心",
+    "en": "Restraint",
+    "desc": "Increase Wit and moderately decrease the chance of being Rushed.",
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
     "icon": "ic_skill_10051"
   },
   {
-    "jp": "",
-    "en": "下り坂巧者",
-    "desc": "下り坂で速度がわずかに上がる",
+    "jp": "下り坂巧者",
+    "en": "Downhill Speedster",
+    "desc": "Slightly increase velocity on downhills.",
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
@@ -3726,6 +3726,51 @@
     "icon": "ic_skill_20011"
   },
   {
+    "jp": "",
+    "en": "意地っ張り",
+    "desc": "レース序盤または中盤に追い抜かれるか競り合うとわずかに前に出る＜作戦・先行＞",
+    "sp_cost": 180,
+    "satei": 217,
+    "ratio": 1.21,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "",
+    "en": "逃げるが勝ち！",
+    "desc": "レース中盤に速度がわずかに上がる＜作戦・逃げ＞",
+    "sp_cost": 180,
+    "satei": 217,
+    "ratio": 1.21,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "",
+    "en": "轟く足音",
+    "desc": "ラストスパートで追い抜くか競り合うとわずかに前に出る＜ダート＞",
+    "sp_cost": 170,
+    "satei": 217,
+    "ratio": 1.28,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "",
+    "en": "淀みなし",
+    "desc": "レース中盤に速度がわずかに上がる＜先行/差し＞",
+    "sp_cost": 180,
+    "satei": 217,
+    "ratio": 1.21,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "",
+    "en": "凛然と",
+    "desc": "最終コーナー前の第3コーナーで中団以降にいるとわずかに前に出る＜追込・中距離＞",
+    "sp_cost": 170,
+    "satei": 217,
+    "ratio": 1.28,
+    "icon": "ic_skill_20011"
+  },
+  {
     "jp": "アオハル点火・速",
     "en": "Ignited Spirit SPD",
     "desc": "Burn bright with team spirit, slightly increasing velocity in proportion to the total Speed of racing team members mid-race.",
@@ -3764,16 +3809,16 @@
   {
     "jp": "アオハル点火・賢",
     "en": "Ignited Spirit WIT",
-    "desc": "Burn bright with team spirit, slightly increasing strategic navigation in proportion to the total Wit of racing team members early-race.",
+    "desc": "Burn bright with team spirit, slightly increasing strategic navigation for a medium duration in proportion to the total Wit of racing team members early-race.",
     "sp_cost": 200,
     "satei": 263,
     "ratio": 1.31,
     "icon": "ic_skill_20131"
   },
   {
-    "jp": "",
-    "en": "綺羅星",
-    "desc": "レース後半にちょっと呼吸を整え前へ踏み込む育成で重ねた勝利の数だけ効果が高まる",
+    "jp": "綺羅星",
+    "en": "Glittering Star",
+    "desc": "Very slightly control breathing and kick forward in the second half of the race. Effect is increased in proportion to number of career wins.",
     "sp_cost": 200,
     "satei": 263,
     "ratio": 1.31,
@@ -3951,6 +3996,15 @@
     "icon": "ic_skill_20311"
   },
   {
+    "jp": "",
+    "en": "本気で休んで、もう一度",
+    "desc": "ラストスパートの最中に速度がわずかに上がる",
+    "sp_cost": 200,
+    "satei": 263,
+    "ratio": 1.31,
+    "icon": "ic_skill_20321"
+  },
+  {
     "jp": "癒えない渇き",
     "en": "Unquenched Thirst",
     "desc": "Moderately increase performance with the desire to race.",
@@ -3960,54 +4014,54 @@
     "icon": "ic_skill_10021"
   },
   {
-    "jp": "",
-    "en": "夢の景色へ",
-    "desc": "見たい景色を必死に追いかけ能力が少し発揮しやすくなる",
+    "jp": "夢の景色へ",
+    "en": "Towards the Scenery I Seek",
+    "desc": "Moderately increase performance in pursuit of that long sought-after scenery.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
     "icon": "ic_skill_10011"
   },
   {
-    "jp": "",
-    "en": "拡がる恐れ",
-    "desc": "トレーナーの恐れが伝播し能力が少し発揮しにくくなる",
+    "jp": "拡がる恐れ",
+    "en": "Creeping Anxiety",
+    "desc": "Moderately decrease performance due to Trainer's anxiety.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
     "icon": "ic_skill_10014"
   },
   {
-    "jp": "",
-    "en": "未知への走りを見せてくれ",
-    "desc": "次のステージを見せてくれる期待を伝えてサイレンススズカの能力を少し発揮しやすくさせる",
+    "jp": "未知への走りを見せてくれ",
+    "en": "Show Me What Lies Beyond!",
+    "desc": "Moderately increase Silence Suzuka's performance thanks to the desire to see her running reach new heights.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
     "icon": "ic_skill_10011"
   },
   {
-    "jp": "",
-    "en": "ほんにゃか快走祈願！",
-    "desc": "気持ちよく走れるおまじないをしてサイレンススズカの能力を少し発揮しやすくさせる",
+    "jp": "ほんにゃか快走祈願！",
+    "en": "Hoiya! Have a Good Run!",
+    "desc": "Moderately increase Silence Suzuka's performance thanks to a charm that guarantees a satisfying run.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
     "icon": "ic_skill_10021"
   },
   {
-    "jp": "",
-    "en": "友として、ライバルとして",
-    "desc": "自分だけの走りを見つけた親友への激励がサイレンススズカの能力を少し発揮しやすくさせる",
+    "jp": "友として、ライバルとして",
+    "en": "As a Friend and Rival",
+    "desc": "Moderately increase Silence Suzuka's performance through the happiness felt seeing a friend find their running style.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
     "icon": "ic_skill_10031"
   },
   {
-    "jp": "",
-    "en": "胸を張れダービーウマ娘",
-    "desc": "日本一のウマ娘に一歩近づけた手ごたえにより能力が少し発揮しやすくなる",
+    "jp": "胸を張れダービーウマ娘",
+    "en": "Chin Up, Derby Umamusume!",
+    "desc": "Feel closer to being Japan's top racer, moderately increasing performance.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
@@ -4032,27 +4086,27 @@
     "icon": "ic_skill_10011"
   },
   {
-    "jp": "",
-    "en": "マイルレースへの想い",
-    "desc": "芝・マイルレースが得意になるこのスキルはイベント専用になります",
+    "jp": "マイルレースへの想い",
+    "en": "Mile Race Enthusiast",
+    "desc": "Increase proficiency in Mile Turf races. This skill is exclusive to the event.",
     "sp_cost": 0,
     "satei": 508,
     "ratio": 508.0,
     "icon": "ic_skill_10031"
   },
   {
-    "jp": "",
-    "en": "中距離レースへの想い",
-    "desc": "芝・中距離レースが得意になるこのスキルはイベント専用になります",
+    "jp": "中距離レースへの想い",
+    "en": "Medium Race Enthusiast",
+    "desc": "Increase proficiency in Medium Turf races. This skill is exclusive to the event.",
     "sp_cost": 0,
     "satei": 508,
     "ratio": 508.0,
     "icon": "ic_skill_10051"
   },
   {
-    "jp": "",
-    "en": "長距離レースへの想い",
-    "desc": "芝・長距離レースが得意になるこのスキルはイベント専用になります",
+    "jp": "長距離レースへの想い",
+    "en": "Long Race Enthusiast",
+    "desc": "Increase proficiency in Long Turf races. This skill is exclusive to the event.",
     "sp_cost": 0,
     "satei": 508,
     "ratio": 508.0,
@@ -4140,18 +4194,18 @@
     "icon": "ic_skill_20042"
   },
   {
-    "jp": "",
-    "en": "大逃げ",
-    "desc": "通常の逃げの作戦よりさらに大きく後続を引き離して、そのまま最後まで逃げ切ろうとする＜作戦・逃げ＞",
+    "jp": "大逃げ",
+    "en": "Runaway",
+    "desc": "Attempt to gain an especially large lead and keep it until the finish. (Front Runner)",
     "sp_cost": 200,
     "satei": 370,
     "ratio": 1.85,
     "icon": "ic_skill_40012"
   },
   {
-    "jp": "",
-    "en": "右回りの鬼",
-    "desc": "右回りコースが得意になりスピードとパワーが上昇する",
+    "jp": "右回りの鬼",
+    "en": "Right-Handed Demon",
+    "desc": "Increase proficiency in right-handed tracks, increasing Speed and Power.",
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
@@ -4176,9 +4230,9 @@
     "icon": "ic_skill_10022"
   },
   {
-    "jp": "",
-    "en": "淀の申し子",
-    "desc": "京都レース場が得意になりスタミナ、賢さ、スピードが上昇する",
+    "jp": "淀の申し子",
+    "en": "Yodo Invicta",
+    "desc": "Increase performance at Kyoto Racecourse, boosting Stamina and Wit.",
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
@@ -4194,9 +4248,9 @@
     "icon": "ic_skill_10022"
   },
   {
-    "jp": "",
-    "en": "良バ場の鬼",
-    "desc": "「良」のバ場状態が得意になりパワーとスピードが上昇する",
+    "jp": "良バ場の鬼",
+    "en": "Firm Course Menace",
+    "desc": "Increase performance on firm ground, boosting Power and Speed.",
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
@@ -4212,9 +4266,9 @@
     "icon": "ic_skill_10032"
   },
   {
-    "jp": "",
-    "en": "春一番",
-    "desc": "春のレースが得意になりスピードとパワーが上昇する",
+    "jp": "春一番",
+    "en": "Spring Spectacle",
+    "desc": "Increase performance in spring, boosting Speed and Power.",
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
@@ -4230,9 +4284,9 @@
     "icon": "ic_skill_10012"
   },
   {
-    "jp": "",
-    "en": "初嵐",
-    "desc": "秋のレースが得意になりスピードとパワーが上昇する",
+    "jp": "初嵐",
+    "en": "Fall Frenzy",
+    "desc": "Increase performance in fall, boosting Speed and Power.",
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
@@ -4322,7 +4376,7 @@
   {
     "jp": "鋼の意志",
     "en": "Iron Will",
-    "desc": "Recover endurance when the way ahead is jammed early-race.",
+    "desc": "Recover endurance when the way ahead is jammed early-race or mid-race.",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -4331,7 +4385,7 @@
   {
     "jp": "注目の踊り子",
     "en": "Center Stage",
-    "desc": "Increase navigation early-race.",
+    "desc": "Greatly increase navigation early-race.",
     "sp_cost": 240,
     "satei": 334,
     "ratio": 1.39,
@@ -4421,7 +4475,7 @@
   {
     "jp": "余裕綽々",
     "en": "Calm and Collected",
-    "desc": "Decrease fatigue early-race. (Pace Chaser)",
+    "desc": "Decrease fatigue upon approaching mid-race. (Pace Chaser)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
@@ -4484,7 +4538,7 @@
   {
     "jp": "疾風怒濤",
     "en": "Sturm und Drang",
-    "desc": "Move up in preparation to close the gap late-race. (End Closer)",
+    "desc": "Move up in preparation to close the gap when positioned toward the back late-race. (End Closer)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
@@ -4520,7 +4574,7 @@
   {
     "jp": "マイルの支配者",
     "en": "Mile Maven",
-    "desc": "Widen the margin when in the lead early-race. (Mile)",
+    "desc": "Widen the margin when positioned toward the front early-race. (Mile)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -4529,7 +4583,7 @@
   {
     "jp": "慧眼",
     "en": "Keen Eye",
-    "desc": "Decrease fatigue when positioned toward the back early-race. (Mile)",
+    "desc": "Decrease fatigue, then moderately decrease velocity of runners ahead when positioned toward the back upon approaching mid-race. (Mile)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -4547,7 +4601,7 @@
   {
     "jp": "切り開く者",
     "en": "Trackblazer",
-    "desc": "Decrease fatigue when in the lead mid-race. (Medium)",
+    "desc": "Decrease fatigue when positioned toward the front mid-race. (Medium)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -4592,16 +4646,16 @@
   {
     "jp": "火事場のバ鹿力",
     "en": "Adrenaline Rush",
-    "desc": "Regain the energy to run after exhausting strength. (Long)",
+    "desc": "Regain the energy to run when close to exhausting strength. (Long)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20022"
   },
   {
-    "jp": "",
-    "en": "見惚れるトリック",
-    "desc": "レース中盤に前の方にいると後ろの掛かったウマ娘が疲れる",
+    "jp": "見惚れるトリック",
+    "en": "Tantalizing Trick",
+    "desc": "Increase fatigue for rushed runners behind when positioned toward the front mid-race.",
     "sp_cost": 280,
     "satei": 508,
     "ratio": 1.81,
@@ -4637,7 +4691,7 @@
   {
     "jp": "プランX",
     "en": "Plan X",
-    "desc": "Increase passing ability when positioned toward the front mid-race. (Sprint)",
+    "desc": "Increase passing ability when positioned toward the front upon approaching late-race. (Sprint)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -4646,7 +4700,7 @@
   {
     "jp": "準備万全！",
     "en": "Perfect Prep!",
-    "desc": "Prepare to make for the finish line mid-race. (Sprint)",
+    "desc": "Prepare to make for the finish line for a medium duration mid-race. (Sprint)",
     "sp_cost": 280,
     "satei": 394,
     "ratio": 1.41,
@@ -4664,7 +4718,7 @@
   {
     "jp": "逃亡禁止令",
     "en": "You've Got No Shot",
-    "desc": "Cause panic in runners ahead when positioned toward the back early-race. (Sprint)",
+    "desc": "Cause panic in and moderately dull movement for runners ahead when positioned toward the back early-race. (Sprint)",
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
@@ -4718,7 +4772,7 @@
   {
     "jp": "スピードグリード",
     "en": "Greed for Speed",
-    "desc": "Moderately steal velocity from runners behind when in the lead mid-race. (Mile)",
+    "desc": "Moderately steal velocity from runners behind when positioned toward the front mid-race. (Mile)",
     "sp_cost": 320,
     "satei": 461,
     "ratio": 1.44,
@@ -4734,18 +4788,18 @@
     "icon": "ic_skill_30022"
   },
   {
-    "jp": "",
-    "en": "光芒一閃",
-    "desc": "直線で速度が上がる＜中距離＞",
+    "jp": "光芒一閃",
+    "en": "Flash Forward",
+    "desc": "Increase velocity on a straight. (Medium)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "光芒円刃",
-    "desc": "コーナーで速度が上がる＜中距離＞",
+    "jp": "光芒円刃",
+    "en": "Refraction Arc",
+    "desc": "Increase velocity on corners. (Medium)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
@@ -4763,7 +4817,7 @@
   {
     "jp": "ライトニングステップ",
     "en": "Lightning Step",
-    "desc": "Avoid becoming surrounded when positioned toward the back mid-race. (Medium)",
+    "desc": "Avoid becoming surrounded for a medium duration when positioned toward the back mid-race. (Medium)",
     "sp_cost": 280,
     "satei": 394,
     "ratio": 1.41,
@@ -4797,9 +4851,9 @@
     "icon": "ic_skill_30052"
   },
   {
-    "jp": "",
-    "en": "烈風一閃",
-    "desc": "直線で速度が上がる＜長距離＞",
+    "jp": "烈風一閃",
+    "en": "Blast Forward",
+    "desc": "Increase velocity on a straight. (Long)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
@@ -4817,16 +4871,16 @@
   {
     "jp": "先陣の心得",
     "en": "Vanguard Spirit",
-    "desc": "Increase ability to maintain the lead when leading by a large margin mid-race. (Long)",
+    "desc": "Increase ability to maintain the lead when leading by a fair margin mid-race. (Long)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "VIP顔パス",
-    "desc": "追い抜く気持ちが湧き疲れにくくなる＜長距離＞",
+    "jp": "VIP顔パス",
+    "en": "VIP Pass",
+    "desc": "Decrease fatigue when determined to pass another runner. (Long)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -4844,7 +4898,7 @@
   {
     "jp": "スタミナグリード",
     "en": "Stamina Siphon",
-    "desc": "Moderately steal endurance from runners ahead when positioned toward the back mid-race. (Long)",
+    "desc": "Slightly steal endurance from runners ahead when positioned toward the back mid-race. (Long)",
     "sp_cost": 320,
     "satei": 461,
     "ratio": 1.44,
@@ -4887,9 +4941,9 @@
     "icon": "ic_skill_20052"
   },
   {
-    "jp": "",
-    "en": "トップランナー",
-    "desc": "レース序盤または中盤に追い抜かれるか競り合ったとき速度が上がる＜作戦・逃げ＞",
+    "jp": "トップランナー",
+    "en": "Top Runner",
+    "desc": "Increase ability to pass or challenge another runner early-race or mid-race. (Front Runner)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
@@ -4907,7 +4961,7 @@
   {
     "jp": "再燃焼",
     "en": "Reignition",
-    "desc": "Increase acceleration when positioned toward the back mid-race. (Front Runner)",
+    "desc": "Increase acceleration when not in the lead mid-race. (Front Runner)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
@@ -4997,7 +5051,7 @@
   {
     "jp": "努力家",
     "en": "Hard Worker",
-    "desc": "Moderately increase passing ability. (Late Surger)",
+    "desc": "Moderately increase acceleration for a medium duration when trying to pass another runner. (Late Surger)",
     "sp_cost": 240,
     "satei": 334,
     "ratio": 1.39,
@@ -5040,9 +5094,9 @@
     "icon": "ic_skill_30052"
   },
   {
-    "jp": "",
-    "en": "月影一閃",
-    "desc": "直線で速度が上がる＜作戦・追込＞",
+    "jp": "月影一閃",
+    "en": "Moonlit Flash",
+    "desc": "Increase velocity on straights. (End Closer)",
     "sp_cost": 420,
     "satei": 508,
     "ratio": 1.21,
@@ -5121,9 +5175,9 @@
     "icon": "ic_skill_20042"
   },
   {
-    "jp": "",
-    "en": "ウママニア",
-    "desc": "近くにウマ娘がたくさんいると速度が上がる",
+    "jp": "ウママニア",
+    "en": "Superstan",
+    "desc": "Increase velocity when close to many runners.",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -5139,9 +5193,9 @@
     "icon": "ic_skill_20042"
   },
   {
-    "jp": "",
-    "en": "尻尾の滝登り",
-    "desc": "レース中盤にスキルを多く発動すると速度が上がる",
+    "jp": "尻尾の滝登り",
+    "en": "Tail Nine",
+    "desc": "Increase velocity after activating many skills mid-race.",
     "sp_cost": 280,
     "satei": 508,
     "ratio": 1.81,
@@ -5166,9 +5220,9 @@
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "お先に失礼っ！",
-    "desc": "すぐ後ろにウマ娘が長くいると速度が上がる",
+    "jp": "お先に失礼っ！",
+    "en": "See Ya Later!",
+    "desc": "Increase velocity when followed by another runner directly behind for a long time.",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -5184,162 +5238,162 @@
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "狙うは最前列！",
-    "desc": "レース終盤にコース取りが上手くなり加速力が少し上がる＜ダート＞",
+    "jp": "狙うは最前列！",
+    "en": "Lead the Charge!",
+    "desc": "Prepare to aim for the front late-race. (Dirt)",
     "sp_cost": 280,
     "satei": 394,
     "ratio": 1.41,
     "icon": "ic_skill_20052"
   },
   {
-    "jp": "",
-    "en": "潜伏態勢",
-    "desc": "レース中盤が迫ったとき中団以降にいると持久力を回復する＜作戦・差し＞",
+    "jp": "潜伏態勢",
+    "en": "Lie in Wait",
+    "desc": "Recover endurance when positioned toward the back upon approaching mid-race. (Late Surger)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
     "icon": "ic_skill_20022"
   },
   {
-    "jp": "",
-    "en": "決死の覚悟",
-    "desc": "終盤の最終直線で好位置にいると速度が上がる＜中距離＞",
+    "jp": "決死の覚悟",
+    "en": "Come What May",
+    "desc": "Increase velocity when well-positioned on a straight in the last spurt. (Medium)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "鍔迫り合い",
-    "desc": "レース終盤始めの方で前方にいると加速力が上がる＜作戦・先行＞",
+    "jp": "鍔迫り合い",
+    "en": "Neck and Neck",
+    "desc": "Increase acceleration when positioned toward the front late-race. (Pace Chaser)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
     "icon": "ic_skill_20042"
   },
   {
-    "jp": "",
-    "en": "砂の玄人",
-    "desc": "レース中盤に後方にいると持久力が回復し速度が上がる＜ダート＞",
+    "jp": "砂の玄人",
+    "en": "Master of the Sands",
+    "desc": "Recover endurance and increase velocity when positioned toward the back mid-race. (Dirt)",
     "sp_cost": 380,
     "satei": 508,
     "ratio": 1.34,
     "icon": "ic_skill_20022"
   },
   {
-    "jp": "",
-    "en": "真打",
-    "desc": "レース終盤が迫ったとき前方にいると速度が上がる＜長距離＞",
+    "jp": "真打",
+    "en": "Headliner",
+    "desc": "Increase velocity when positioned toward the front upon approaching late-race. (Long)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "強攻策",
-    "desc": "レース中盤に後方にいるとしばらくの間速度が少し上がる＜作戦・追込＞",
+    "jp": "強攻策",
+    "en": "Daring Strike",
+    "desc": "Moderately increase velocity for a medium duration when positioned toward the back mid-race. (End Closer)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "博打うち",
-    "desc": "レース後半に速度がすごく上がるがすごく疲れてしまうことがある",
+    "jp": "博打うち",
+    "en": "Nothing Ventured",
+    "desc": "Greatly increase velocity in the second half of the race, but also greatly increase fatigue sometimes.",
     "sp_cost": 240,
     "satei": 334,
     "ratio": 1.39,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "意気衝天",
-    "desc": "レース終盤が迫ったとき前方にいると速度が上がる＜短距離＞",
+    "jp": "意気衝天",
+    "en": "In High Spirits",
+    "desc": "Increase velocity when positioned toward the front upon approaching late-race. (Sprint)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "日本一のウマ娘",
-    "desc": "期待を背負った強い想いが力に変わり最終コーナーで速度が上がる＜長距離＞",
+    "jp": "日本一のウマ娘",
+    "en": "Best in Japan",
+    "desc": "Everyone's expectations strongly inspire the skill user, increasing velocity on the final corner. (Long)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
     "icon": "ic_skill_2010010"
   },
   {
-    "jp": "",
-    "en": "泰然自若",
-    "desc": "レース中盤始めの方に中団にいると速度をわずかに落として持久力をすごく回復する＜長距離＞",
+    "jp": "泰然自若",
+    "en": "Of Calm Mind",
+    "desc": "If positioned in the midpack around when the mid-race starts, slightly decrease velocity and greatly recover endurance. (Long)",
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
     "icon": "ic_skill_20022"
   },
   {
-    "jp": "",
-    "en": "起死回生",
-    "desc": "レース終盤始めの方で中団以降にいると加速力が上がる＜中距離＞",
+    "jp": "起死回生",
+    "en": "From the Brink",
+    "desc": "If positioned toward the back late-race, increase acceleration. (Medium)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20042"
   },
   {
-    "jp": "",
-    "en": "気炎万丈",
-    "desc": "レース中盤に中団で競り合うと持久力が少し回復し、速度が上がる＜中距離＞",
+    "jp": "気炎万丈",
+    "en": "Burning Soul",
+    "desc": "When engaged in a challenge midpack mid-race, moderately recover endurance and moderately increase velocity. (Medium)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "高揚感",
-    "desc": "レース中盤に後ろの方にいると速度が上がる＜中距離＞",
+    "jp": "高揚感",
+    "en": "Elated",
+    "desc": "When positioned toward the back mid-race, increase velocity. (Medium)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "破竹の勢い",
-    "desc": "最終コーナーで後ろの方にいると速度が上がる＜マイル＞",
+    "jp": "破竹の勢い",
+    "en": "Full of Vigor",
+    "desc": "When positioned toward the back on the final corner, increase velocity. (Mile)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "大胆不敵",
-    "desc": "レース後半に中団にいると速度が上がり加速力がちょっと上がる＜作戦・差し＞",
+    "jp": "大胆不敵",
+    "en": "Dauntless",
+    "desc": "When positioned in the midpack during the second half of the race, increase velocity and very slightly increase acceleration. (Late Surger)",
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "荒ぶる旋風",
-    "desc": "レース中盤に前の方にいると後ろの速度をわずかに下げ自分の速度を上げる＜中距離＞",
+    "jp": "荒ぶる旋風",
+    "en": "Wild Wind",
+    "desc": "When positioned toward the front mid-race, increase velocity and slightly decrease the velocity of runners behind the skill user. (Medium)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "勇往邁進",
-    "desc": "レース中盤に持久力を少し使って速度をすごく上げる＜作戦・差し＞",
+    "jp": "勇往邁進",
+    "en": "Keep Going!",
+    "desc": "Greatly consume endurance mid-race and greatly increase velocity. (Late Surger)",
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
@@ -6571,6 +6625,15 @@
   },
   {
     "jp": "",
+    "en": "勇壮活発",
+    "desc": "最終コーナー前の第3コーナーで前方にいると前に出る＜ダート＞",
+    "sp_cost": 360,
+    "satei": 508,
+    "ratio": 1.41,
+    "icon": "ic_skill_20012"
+  },
+  {
+    "jp": "",
     "en": "開花",
     "desc": "レース中盤に速度が上がるスキル発動時、前方にいると効果が変わり前に出る＜作戦・先行＞",
     "sp_cost": 360,
@@ -6585,6 +6648,42 @@
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
+    "icon": "ic_skill_20012"
+  },
+  {
+    "jp": "",
+    "en": "迸る気迫",
+    "desc": "レース序盤または中盤に追い抜かれるか競り合うと前に出る＜作戦・先行＞",
+    "sp_cost": 360,
+    "satei": 508,
+    "ratio": 1.41,
+    "icon": "ic_skill_20012"
+  },
+  {
+    "jp": "",
+    "en": "震天動地",
+    "desc": "ラストスパートで追い抜くか競り合うと前に出る＜ダート＞",
+    "sp_cost": 340,
+    "satei": 508,
+    "ratio": 1.49,
+    "icon": "ic_skill_20012"
+  },
+  {
+    "jp": "",
+    "en": "行雲流水",
+    "desc": "レース中盤に速度が上がる＜先行/差し＞",
+    "sp_cost": 360,
+    "satei": 508,
+    "ratio": 1.41,
+    "icon": "ic_skill_20012"
+  },
+  {
+    "jp": "",
+    "en": "勇気凛々",
+    "desc": "最終コーナー前の第3コーナーで中団以降にいると前に出る＜追込・中距離＞",
+    "sp_cost": 340,
+    "satei": 508,
+    "ratio": 1.49,
     "icon": "ic_skill_20012"
   },
   {
@@ -6626,16 +6725,16 @@
   {
     "jp": "アオハル燃焼・賢",
     "en": "Burning Spirit WIT",
-    "desc": "Burn bright with team spirit, increasing strategic navigation in proportion to the total Wit of racing team members early-race.",
+    "desc": "Burn bright with team spirit, increasing strategic navigation for a medium duration in proportion to the total Wit of racing team members early-race.",
     "sp_cost": 400,
     "satei": 633,
     "ratio": 1.58,
     "icon": "ic_skill_20132"
   },
   {
-    "jp": "",
-    "en": "一番星",
-    "desc": "レース後半に呼吸を整え前へ踏み込む育成で重ねた勝利の数だけ効果が高まる",
+    "jp": "一番星",
+    "en": "Radiant Star",
+    "desc": "Control breathing and kick forward in the second half of the race. Effect is increased in proportion to number of career wins.",
     "sp_cost": 400,
     "satei": 633,
     "ratio": 1.58,
@@ -6741,6 +6840,15 @@
     "icon": "ic_skill_20312"
   },
   {
+    "jp": "",
+    "en": "保養が導く奇跡",
+    "desc": "ラストスパートの最中に速度が上がる旅館ランクが伝説の宿なら効果が増える",
+    "sp_cost": 400,
+    "satei": 633,
+    "ratio": 1.58,
+    "icon": "ic_skill_20322"
+  },
+  {
     "jp": "変わらぬままで",
     "en": "Unchanging",
     "desc": "Greatly increase performance with the same ambition of days past.",
@@ -6750,36 +6858,36 @@
     "icon": "ic_skill_10012"
   },
   {
-    "jp": "",
-    "en": "鮮明になる畏怖",
-    "desc": "トレーナーの恐れがより鮮明になりレース後半のコーナーで速度がすごく下がる",
+    "jp": "鮮明になる畏怖",
+    "en": "Blatant Fear",
+    "desc": "Greatly decrease velocity on a corner in the second half of the race due to Trainer's obvious anxiety.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
     "icon": "ic_skill_20015"
   },
   {
-    "jp": "",
-    "en": "夢の走り",
-    "desc": "みんなの想いと共にゴールを走り抜ける気持ちを強く持つと最終直線で速度を上げる",
+    "jp": "夢の走り",
+    "en": "Dream Run",
+    "desc": "Increase velocity on the final straight due to a strong desire to cross the finish line carrying everyone's hopes and dreams.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
     "icon": "ic_skill_20012"
   },
   {
-    "jp": "",
-    "en": "憧れのエール",
-    "desc": "レース後半のコーナーで思いっきりの応援が届くとサイレンススズカの持久力が回復する",
+    "jp": "憧れのエール",
+    "en": "Cheers of a Fellow Dreamer",
+    "desc": "Recover Silence Suzuka's endurance on a corner in the second half of the race through a friend's cheers of support.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
     "icon": "ic_skill_20022"
   },
   {
-    "jp": "",
-    "en": "チームの一員として",
-    "desc": "チーム全員が思い入れのあるレースを絶対に勝ちたいという気持ちにより能力がすごく発揮しやすくなる",
+    "jp": "チームの一員として",
+    "en": "For the Team",
+    "desc": "The whole team feels super determined to win this special race, greatly increasing performance.",
     "sp_cost": 0,
     "satei": 0,
     "ratio": 0.0,
@@ -6799,7 +6907,7 @@
     "en": "1番人気でヤバたん",
     "desc": "新聞を読んで意気込んでしまい、少し掛かりやすくなる",
     "sp_cost": 0,
-    "satei": 174,
+    "satei": -174,
     "ratio": -174.0,
     "icon": "ic_skill_10054"
   },
@@ -6808,7 +6916,7 @@
     "en": "ハイパーハイテンション☆",
     "desc": "憧れの先輩の勝利に興奮してよく眠れず能力をわずかに発揮しにくくなり掛かりやすくなる",
     "sp_cost": 0,
-    "satei": 174,
+    "satei": -174,
     "ratio": -174.0,
     "icon": "ic_skill_10054"
   },
@@ -6817,43 +6925,43 @@
     "en": "無意識の枷",
     "desc": "負けられないレースを前に焦りスピードとスタミナと賢さがものすごく下がる",
     "sp_cost": 0,
-    "satei": 174,
+    "satei": -174,
     "ratio": -174.0,
     "icon": "ic_skill_10014"
   },
   {
-    "jp": "",
-    "en": "凸凹ネイル",
-    "desc": "「良」のバ場状態が少し苦手になる",
+    "jp": "凸凹ネイル",
+    "en": "♡ 3D Nail Art",
+    "desc": "Moderately decrease performance on firm ground.",
     "sp_cost": 50,
-    "satei": 129,
+    "satei": -129,
     "ratio": -2.58,
     "icon": "ic_skill_10014"
   },
   {
-    "jp": "",
-    "en": "アタシに指図しないで！！",
-    "desc": "出遅れる時間が長くなり賢さが少し下がる",
+    "jp": "アタシに指図しないで！！",
+    "en": "You're Not the Boss of Me!",
+    "desc": "Increase time lost to slow starts and moderately decrease Wit.",
     "sp_cost": 0,
-    "satei": 174,
+    "satei": -174,
     "ratio": -174.0,
     "icon": "ic_skill_20064"
   },
   {
     "jp": "",
     "en": "99 Problems",
-    "desc": "圧倒的なウマ娘たちに気圧され根性と賢さが少し下がる",
+    "desc": "Get overwhelmed by powerful opponents, moderately decreasing Guts and Wit.",
     "sp_cost": 0,
-    "satei": 174,
+    "satei": -174,
     "ratio": -174.0,
     "icon": "ic_skill_10044"
   },
   {
-    "jp": "",
-    "en": "超遊び癖",
-    "desc": "スタートがすごく苦手になり出遅れたりスタート時の加速力が低下したりするこのスキルは育成完了後に消滅する",
+    "jp": "超遊び癖",
+    "en": "Feelin' a Bit Silly",
+    "desc": "Greatly decrease the racer's proficiency in starting races. Effects include slow starts and reduced starting acceleration. Removed at the end of the Career playthrough.",
     "sp_cost": 0,
-    "satei": 500,
+    "satei": -500,
     "ratio": -500.0,
     "icon": "ic_skill_20064"
   },
@@ -6862,7 +6970,7 @@
     "en": "Right-Handed ×",
     "desc": "Moderately decrease performance on right-handed tracks.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10014"
   },
@@ -6871,7 +6979,7 @@
     "en": "Left-Handed ×",
     "desc": "Moderately decrease performance on left-handed tracks.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10014"
   },
@@ -6880,7 +6988,7 @@
     "en": "直線コース×",
     "desc": "直線のコースが少し苦手になる",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10014"
   },
@@ -6889,7 +6997,7 @@
     "en": "Tokyo Racecourse ×",
     "desc": "Moderately decrease performance at Tokyo Racecourse.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10024"
   },
@@ -6898,7 +7006,7 @@
     "en": "Nakayama Racecourse ×",
     "desc": "Moderately decrease performance at Nakayama Racecourse.",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10024"
   },
@@ -6907,7 +7015,7 @@
     "en": "Hanshin Racecourse ×",
     "desc": "Moderately decrease performance at Hanshin Racecourse.",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10024"
   },
@@ -6916,7 +7024,7 @@
     "en": "Kyoto Racecourse ×",
     "desc": "Moderately decrease performance at Kyoto Racecourse.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10024"
   },
@@ -6925,7 +7033,7 @@
     "en": "Chukyo Racecourse ×",
     "desc": "Moderately decrease performance at Chukyo Racecourse.",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10024"
   },
@@ -6934,7 +7042,7 @@
     "en": "Sapporo Racecourse ×",
     "desc": "Moderately decrease performance at Sapporo Racecourse.",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10024"
   },
@@ -6943,7 +7051,7 @@
     "en": "Hakodate Racecourse ×",
     "desc": "Moderately decrease performance at Hakodate Racecourse.",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10024"
   },
@@ -6952,7 +7060,7 @@
     "en": "Fukushima Racecourse ×",
     "desc": "Moderately decrease performance at Fukushima Racecourse.",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10024"
   },
@@ -6961,7 +7069,7 @@
     "en": "Niigata Racecourse ×",
     "desc": "Moderately decrease performance at Niigata Racecourse.",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10024"
   },
@@ -6970,7 +7078,7 @@
     "en": "Kokura Racecourse ×",
     "desc": "Moderately decrease performance at Kokura Racecourse.",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10024"
   },
@@ -6979,7 +7087,7 @@
     "en": "Oi Racecourse ×",
     "desc": "Moderately decrease performance at Oi Racecourse.",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10024"
   },
@@ -6988,7 +7096,7 @@
     "en": "川崎レース場×",
     "desc": "川崎レース場が少し苦手になる",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10024"
   },
@@ -6997,7 +7105,7 @@
     "en": "船橋レース場×",
     "desc": "船橋レース場が少し苦手になる",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10024"
   },
@@ -7006,7 +7114,7 @@
     "en": "盛岡レース場×",
     "desc": "盛岡レース場が少し苦手になる",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10024"
   },
@@ -7015,7 +7123,7 @@
     "en": "ロンシャンレース場×",
     "desc": "ロンシャンレース場が少し苦手になる",
     "sp_cost": 330,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.39,
     "icon": "ic_skill_10024"
   },
@@ -7024,7 +7132,7 @@
     "en": "Standard Distance ×",
     "desc": "Moderately decrease performance over standard distances (multiples of 400m).",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10024"
   },
@@ -7033,7 +7141,7 @@
     "en": "Non-Standard Distance ×",
     "desc": "Moderately decrease performance over non-standard distances (non-multiples of 400m).",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10024"
   },
@@ -7042,7 +7150,7 @@
     "en": "Firm Conditions ×",
     "desc": "Moderately decrease performance on firm ground.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10034"
   },
@@ -7051,7 +7159,7 @@
     "en": "Wet Conditions ×",
     "desc": "Moderately decrease performance on good, soft, and heavy ground.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10034"
   },
@@ -7060,7 +7168,7 @@
     "en": "Spring Runner ×",
     "desc": "Moderately decrease performance in spring.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10014"
   },
@@ -7069,7 +7177,7 @@
     "en": "Summer Runner ×",
     "desc": "Moderately decrease performance in summer.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10014"
   },
@@ -7078,7 +7186,7 @@
     "en": "Fall Runner ×",
     "desc": "Moderately decrease performance in fall.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10014"
   },
@@ -7087,7 +7195,7 @@
     "en": "Winter Runner ×",
     "desc": "Moderately decrease performance in winter.",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10014"
   },
@@ -7096,7 +7204,7 @@
     "en": "Rainy Days ×",
     "desc": "Moderately decrease performance in rainy weather.",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10044"
   },
@@ -7105,7 +7213,7 @@
     "en": "Inner Post Averseness",
     "desc": "Moderately decrease performance in brackets 1–3.",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10054"
   },
@@ -7114,16 +7222,16 @@
     "en": "Outer Post Averseness",
     "desc": "Moderately decrease performance in brackets 6–8.",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10014"
   },
   {
     "jp": "引っ込み思案",
     "en": "Wallflower",
-    "desc": "Moderately decrease performance when at least 5 other runners are using the same strategy.",
+    "desc": "Moderately decrease performance when many other runners are using the same strategy.",
     "sp_cost": 250,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.52,
     "icon": "ic_skill_10034"
   },
@@ -7132,7 +7240,7 @@
     "en": "G1 Averseness",
     "desc": "Moderately decrease performance in G1 or otherwise important races.",
     "sp_cost": 50,
-    "satei": 129,
+    "satei": -129,
     "ratio": -2.58,
     "icon": "ic_skill_10014"
   },
@@ -7141,7 +7249,7 @@
     "en": "Paddock Fright",
     "desc": "Moderately decrease performance when the favorite.",
     "sp_cost": 50,
-    "satei": 129,
+    "satei": -129,
     "ratio": -2.58,
     "icon": "ic_skill_10024"
   },
@@ -7150,7 +7258,7 @@
     "en": "ナイター×",
     "desc": "ナイターのレースが少し苦手になる",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10054"
   },
@@ -7159,7 +7267,7 @@
     "en": "小回り×",
     "desc": "小回りのコースが少し苦手になる",
     "sp_cost": 200,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.65,
     "icon": "ic_skill_10054"
   },
@@ -7168,7 +7276,7 @@
     "en": "交流重賞×",
     "desc": "交流重賞のレースが少し苦手になる",
     "sp_cost": 330,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.39,
     "icon": "ic_skill_10014"
   },
@@ -7177,7 +7285,7 @@
     "en": "Corner Adept ×",
     "desc": "Moderately decrease velocity on a corner with clumsy turning.",
     "sp_cost": 460,
-    "satei": 262,
+    "satei": -262,
     "ratio": -0.57,
     "icon": "ic_skill_20014"
   },
@@ -7186,7 +7294,7 @@
     "en": "Corner Acceleration ×",
     "desc": "Moderately decrease acceleration on a corner with awkward turning.",
     "sp_cost": 460,
-    "satei": 262,
+    "satei": -262,
     "ratio": -0.57,
     "icon": "ic_skill_20044"
   },
@@ -7195,7 +7303,7 @@
     "en": "Corner Recovery ×",
     "desc": "Moderately lose endurance on a corner with inefficient turning.",
     "sp_cost": 440,
-    "satei": 262,
+    "satei": -262,
     "ratio": -0.6,
     "icon": "ic_skill_20024"
   },
@@ -7204,7 +7312,7 @@
     "en": "Ramp Revulsion",
     "desc": "Moderately increase fatigue on an uphill.",
     "sp_cost": 100,
-    "satei": 262,
+    "satei": -262,
     "ratio": -2.62,
     "icon": "ic_skill_20024"
   },
@@ -7213,7 +7321,7 @@
     "en": "Packphobia",
     "desc": "Moderately lose endurance when surrounded.",
     "sp_cost": 100,
-    "satei": 262,
+    "satei": -262,
     "ratio": -2.62,
     "icon": "ic_skill_20024"
   },
@@ -7222,7 +7330,7 @@
     "en": "Defeatist",
     "desc": "Moderately increase urge to give up when positioned around the very back on the final straight.",
     "sp_cost": 100,
-    "satei": 262,
+    "satei": -262,
     "ratio": -2.62,
     "icon": "ic_skill_20014"
   },
@@ -7231,7 +7339,7 @@
     "en": "Reckless",
     "desc": "Moderately increase carelessness when in the lead with around 200m remaining.",
     "sp_cost": 100,
-    "satei": 262,
+    "satei": -262,
     "ratio": -2.62,
     "icon": "ic_skill_20014"
   },
@@ -7240,7 +7348,7 @@
     "en": "Gatekept",
     "desc": "Moderately increase time lost to slow starts.",
     "sp_cost": 350,
-    "satei": 174,
+    "satei": -174,
     "ratio": -0.5,
     "icon": "ic_skill_20064"
   },
@@ -7249,7 +7357,7 @@
     "en": "Running Idle",
     "desc": "Moderately increase fatigue when in the lead by too large of a margin.",
     "sp_cost": 100,
-    "satei": 262,
+    "satei": -262,
     "ratio": -2.62,
     "icon": "ic_skill_20024"
   },
@@ -7258,7 +7366,7 @@
     "en": "砂浴び×",
     "desc": "前のウマ娘のすぐ後ろに付けると速度が少し下がる＜ダート＞",
     "sp_cost": 420,
-    "satei": 262,
+    "satei": -262,
     "ratio": -0.62,
     "icon": "ic_skill_20014"
   },
@@ -7267,7 +7375,7 @@
     "en": "泥遊び×",
     "desc": "バ場状態が重か不良のレースが苦手になりスピードが少し下がる＜ダート＞",
     "sp_cost": 380,
-    "satei": 129,
+    "satei": -129,
     "ratio": -0.34,
     "icon": "ic_skill_10014"
   },
@@ -7281,18 +7389,18 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "Guten Appetit♪",
-    "desc": "最終コーナー以降に2回追い抜くと抱いた誇りを力に変えて最終直線で速度を上げ続ける",
+    "jp": "Guten Appetit♪",
+    "en": "Guten Appetit ♪",
+    "desc": "Increase velocity continuously with a patissiere's pride on the final straight after passing another runner 3 times on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "ぐるぐるマミートリック♡",
-    "desc": "最終直線を好位置で走行中前のウマ娘との距離が近いと抜け出しやすくなる",
+    "jp": "ぐるぐるマミートリック♡",
+    "en": "Give Mummy a Hug ♡",
+    "desc": "Increase ability to break out of the pack when well-positioned and close to the runner ahead on the final straight.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7362,7 +7470,7 @@
     "icon": "ic_skill_20043"
   },
   {
-    "jp": "Schwarzes Schwert",
+    "jp": "",
     "en": "Schwarzes Schwert",
     "desc": "Increase velocity in a dash for the lead after running calmly and according to plan up until the final straight.",
     "sp_cost": 0,
@@ -7380,9 +7488,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "日本総大将",
-    "desc": "全身全霊、ぶつけます！",
+    "jp": "日本総大将",
+    "en": "Ruler of Japan",
+    "desc": "I'll tackle this with everything I've got!",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7407,9 +7515,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "不撓不屈",
-    "desc": "真剣勝負、いざ参ります！",
+    "jp": "不撓不屈",
+    "en": "Indomitable",
+    "desc": "I'll rise up to the challenge!",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7425,9 +7533,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "Fairy tale",
-    "desc": "レース後半に好位置で競り合うと走ることに心を躍らせて速度を上げる",
+    "jp": "Fairy tale",
+    "en": "Fairy Tale",
+    "desc": "Increase velocity with the excitement of running when engaged in a challenge while well-positioned in the second half of the race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7443,9 +7551,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "113転び114起き",
-    "desc": "最終コーナーで先頭から離されているとその距離が遠いほど頑張り続けて速度を少しずつ上げる",
+    "jp": "113転び114起き",
+    "en": "114th Time's the Charm",
+    "desc": "Give max effort when far from the lead on the final corner, moderately increasing velocity steadily for a duration proportional to distance from the lead.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7454,7 +7562,7 @@
   {
     "jp": "",
     "en": "trigger:BEAT",
-    "desc": "最終コーナー以降に中団の内ラチ側にいると勝利への道筋を見出して最終直線で速度が上がりコース取りがうまくなる",
+    "desc": "When near the inner rail midpack on the final corner or later, calculate the path to victory, increasing velocity and ability to navigate smoothly on the final straight.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7472,7 +7580,7 @@
   {
     "jp": "ゲインヒール・スペリアー",
     "en": "Superior Heal",
-    "desc": "Recover endurance with a gentle light when dropping down toward the back mid-race.",
+    "desc": "Greatly recover endurance with a gentle light when overtaken toward the back mid-race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7481,7 +7589,7 @@
   {
     "jp": "先頭の景色は譲らない…！",
     "en": "The View from the Lead Is Mine!",
-    "desc": "Increase velocity by drawing on all remaining strength when in the lead by a fair margin on the final straight.",
+    "desc": "Increase velocity by drawing on all remaining strength when in the lead by a fair margin in the second half of the race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7542,9 +7650,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "ときめきが呼ぶほうへ",
-    "desc": "終盤目前の下り坂で中団に控えていてゴールまで遠いとレースを思いっきり楽しんで速度を上げる",
+    "jp": "ときめきが呼ぶほうへ",
+    "en": "Wherever This Wonder Leads",
+    "desc": "If positioned midpack on a downhill just before late-race and there's a large distance left to the finish, enjoy the race to the fullest, increasing velocity.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7560,9 +7668,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "Go☆Go☆for it!",
-    "desc": "最終コーナー以降に追い抜いていた場合最終直線で中団にいると速度が上がる人気が低い場合は奮起して上げ続ける",
+    "jp": "Go☆Go☆for it!",
+    "en": "Go☆Go☆Goal!",
+    "desc": "If the skill user passes another runner on the final corner or later, increase velocity from the midpack onward on the final straight. If the skill user isn't one of the top favorites, muster resolve to keep steadily increasing velocity.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7578,9 +7686,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "轟！トレセン応援団！！",
-    "desc": "レース前半、掛からず最後方付近に控え続けていると、最終直線で気合を爆発させて加速力が上がる",
+    "jp": "轟！トレセン応援団！！",
+    "en": "Louder! Tracen Cheer!",
+    "desc": "If the skill user stays toward the very back during the first half of the race without being rushed, unleash fighting spirit to increase acceleration on the final straight.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7605,9 +7713,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "どんっ、パッ、むんっ",
-    "desc": "レース中間付近で中団にいるとき気合を入れ直して持久力を回復し速度が少し上がる",
+    "jp": "どんっ、パッ、むんっ",
+    "en": "Go, Go, Mun!",
+    "desc": "Recover endurance and moderately increase velocity with newfound resolve when in midpack around halfway through the race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7641,9 +7749,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "アナタヲ・オイカケテ",
-    "desc": "レース後半に中団から『お友達』を追って速度を少しずつ上げ前方のウマ娘をちょっと萎縮させる",
+    "jp": "アナタヲ・オイカケテ",
+    "en": "Chasing After You",
+    "desc": "Chase after an unseen friend when in midpack in the second half of the race, moderately increasing velocity steadily and very slightly intimidating runners ahead.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7686,9 +7794,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "つぼみ、ほころぶ時",
-    "desc": "レース中盤のコーナーで競り合っていた場合、終盤かつ最終コーナー半ば以降に好位置にいると加速力が上がる",
+    "jp": "つぼみ、ほころぶ時",
+    "en": "Budding Blossom",
+    "desc": "If the skill user engaged in a challenge on a mid-race corner, increase acceleration when well-positioned late-race at least halfway through the final corner.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7704,9 +7812,9 @@
     "icon": "ic_skill_20043"
   },
   {
-    "jp": "",
-    "en": "I'M☆FULL☆SPEED!!",
-    "desc": "レース中間に好位置で追い抜こうとすると速度が少し上がる短距離レースでは効果が変わり少し前に出る",
+    "jp": "I'M☆FULL☆SPEED!!",
+    "en": "YUMMY☆SPEED!",
+    "desc": "Kick forward hard with renewed vigor when starting to get tired while well-positioned halfway through the race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7740,9 +7848,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "晦冥を照らせ永遠の耀き",
-    "desc": "最終直線に入ったとき好位置につけていると強い意志で速度が上がる先頭が近い場合はすごく上がる",
+    "jp": "晦冥を照らせ永遠の耀き",
+    "en": "Eternal Encompassing Shine",
+    "desc": "If well-positioned at the start of the final straight, her strong willpower to win increases velocity. If positioned near the front, greatly increase velocity instead.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7803,9 +7911,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "姫たるもの、勝利をこの手に",
-    "desc": "最終直線を走行中に競り合うと可憐にぶっ飛ばして速度を上げる",
+    "jp": "姫たるもの、勝利をこの手に",
+    "en": "A Princess Must Seize Victory!",
+    "desc": "Increase velocity with pretty princess power when engaged in a challenge on the final straight.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7823,7 +7931,7 @@
   {
     "jp": "",
     "en": "One True Color",
-    "desc": "残り350mを切って前の方で後ろのウマ娘との距離が近いと譲らぬ思いで抜け出しやすくなる",
+    "desc": "If positioned toward the front with 350m remaining and there is another Umamusume close behind, the determination to stay ahead makes it easier to break out of the pack.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7866,9 +7974,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "恵福バルカローレ",
-    "desc": "残り400m地点で先団だと速度を上げるそれまでに7回以上スキルを使っている場合はすごく上げる",
+    "jp": "恵福バルカローレ",
+    "en": "Barcarole of Blessings",
+    "desc": "Increase velocity for a moderate duration when in the front part of the pack with 400m remaining. If at least 7 skills have been activated, greatly increase velocity for a moderate duration instead.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7938,9 +8046,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "威風堂々、夢錦！",
-    "desc": "終盤最終コーナーでスキルを発動すると声援を胸に速度を少し上げる中山レース場ならすごく上げる",
+    "jp": "威風堂々、夢錦！",
+    "en": "Dreams Donned with Pride!",
+    "desc": "If the skill user activates another skill on the final corner late-race, take the crowd's cheers to heart and moderately increase velocity. If racing at Nakayama Racecourse, greatly increase velocity instead.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -7983,9 +8091,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "Drain for rose",
-    "desc": "レース中盤で好位置だと前方のウマ娘から持久力を吸い取り自分の速度を少し上げる",
+    "jp": "Drain for rose",
+    "en": "Every Rose Has Its Fangs",
+    "desc": "Suck endurance from runners ahead when well-positioned and pressured by another runner mid-race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8001,9 +8109,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "GET DOWN",
-    "desc": "最終コーナー走行中に中団で競り合うと抜け出しやすくなる",
+    "jp": "GET DOWN",
+    "en": "Dancing in the Leaves",
+    "desc": "Increase ability to break out of the pack when engaged in a challenge in midpack on the final corner.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8039,7 +8147,7 @@
   {
     "jp": "",
     "en": "Joyful Voyage!",
-    "desc": "残り200m地点で前の方にいると速度を上げる、さらに先頭のウマ娘と近い場合パワフルな走りでわずかに前に出る",
+    "desc": "If positioned toward the front with 200m remaining, increase velocity. Then, if also positioned near the leading Umamusume, gather strength to move slightly forward.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8154,9 +8262,9 @@
     "icon": "ic_skill_20023"
   },
   {
-    "jp": "",
-    "en": "勝ち鬨ワッショイ！",
-    "desc": "前方にいるとき、レース後半の第3コーナーで速度を少し上げる、または終盤の向正面で力強く前に踏み込む",
+    "jp": "勝ち鬨ワッショイ！",
+    "en": "Victory Cheer!",
+    "desc": "Moderately increase velocity when positioned toward the front on the third corner in the second half of the race. Or, kick forward hard when toward the front on the backstretch late-race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8172,9 +8280,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "U=ma2",
+    "jp": "",
     "en": "U=ma2",
-    "desc": "Recover endurance when conserving energy on a corner in the second half of the race.",
+    "desc": "Recover endurance and moderately increase velocity for a moderate duration when sitting off the pace on a corner in the second half of the race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8280,7 +8388,7 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "KEEP IT REAL.",
+    "jp": "",
     "en": "KEEP IT REAL.",
     "desc": "Moderately increase acceleration steadily with a wink when starting to make a move from midpack in the second half of the race.",
     "sp_cost": 0,
@@ -8298,9 +8406,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "一期の夢、刹那の飛翔",
-    "desc": "最終直線で後ろのウマ娘と距離が近いとこの瞬間に懸け持久力をわずかに使い少しの間速度がすごく上がる",
+    "jp": "一期の夢、刹那の飛翔",
+    "en": "A Lifelong Dream, A Moment's Flight",
+    "desc": "Seize the moment when close to the runner behind on the final straight, slightly consuming endurance to greatly increase velocity for a moderate duration.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8325,9 +8433,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "∴win Q.E.D.",
+    "jp": "",
     "en": "∴win Q.E.D.",
-    "desc": "Increase velocity by deriving the winning equation when passing another runner toward the front on the final corner.",
+    "desc": "Increase velocity by deriving the winning equation when passing another runner toward the front on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8345,7 +8453,7 @@
   {
     "jp": "ヴィットーリアに捧ぐ舞踏",
     "en": "This Dance Is for Vittoria!",
-    "desc": "Increase velocity with royal brilliance when engaged in a challenge toward the front on the final corner.",
+    "desc": "Increase velocity with royal brilliance when positioned toward the front and close to the runner ahead or behind on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8424,9 +8532,9 @@
     "icon": "ic_skill_20023"
   },
   {
-    "jp": "",
-    "en": "ディオスクロイの流星",
-    "desc": "最終直線で先頭から離されていると星に導かれるように速度が上がる最後方付近にいる場合はすごく上がる",
+    "jp": "ディオスクロイの流星",
+    "en": "Shooting Star of Dioskouroi",
+    "desc": "Increase velocity with guidance from the stars when far from the lead on the final straight. If positioned around the very back, greatly increase velocity instead.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8435,7 +8543,7 @@
   {
     "jp": "ひらめき☆ランディング",
     "en": "Flashy☆Landing",
-    "desc": "Increase ability to break out of the pack on the straight after engaging in a challenge toward the front on the final corner.",
+    "desc": "Increase ability to break out of the pack on the straight after engaging in a challenge toward the front on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8444,7 +8552,7 @@
   {
     "jp": "最強の名を懸けて",
     "en": "Legacy of the Strong",
-    "desc": "Increase velocity when pressured by another runner and running out of energy toward the front on the final corner or later.",
+    "desc": "Increase velocity continuously when pressured by another runner and running out of energy toward the front on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8460,18 +8568,18 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "快走かな、快走かな！",
-    "desc": "レース前半中団以降に控え続けており追い比べをしていると江戸っ子の底力を見せつけて速度をすごく上げる",
+    "jp": "快走かな、快走かな！",
+    "en": "Now We're Cruisin'!",
+    "desc": "When competing for the lead if positioned in the midpack or further for the first half of the race, show off some Edo spirit and greatly increase velocity.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "レディー、どんっ！",
-    "desc": "レース中間付近で中団にいるとき気合を入れ直して持久力を少し回復し速度がわずかに上がる",
+    "jp": "レディー、どんっ！",
+    "en": "Ready, Go!",
+    "desc": "Moderately recover endurance and slightly increase velocity with newfound resolve when in midpack around halfway through the race.",
     "sp_cost": 0,
     "satei": 240,
     "ratio": 240.0,
@@ -8487,18 +8595,18 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "チャージ完了！全速前進！",
-    "desc": "残り300m付近で前の方だと速度を少し上げる、ちょうど坂を上りきったところだった場合はすごく上げる",
+    "jp": "チャージ完了！全速前進！",
+    "en": "All Charged! It's Go Time!",
+    "desc": "Moderately increase velocity when positioned toward the front with about 300m remaining. If coming out of an uphill, greatly increase velocity instead.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "YEAH☆VIVID TIME!",
-    "desc": "最終直線を走行中に前の方で追い抜こうとするか近寄られるとテンションを上げて速度を上げる",
+    "jp": "YEAH☆VIVID TIME!",
+    "en": "Pop & Polish",
+    "desc": "Get hyped and increase velocity when pressured by or passing another runner while well-positioned on the final straight.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8532,9 +8640,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "麗しき花信風",
-    "desc": "レース後半に中団から残り持久力に応じたロングスパートをかけて速度をわずかに上げ続ける",
+    "jp": "麗しき花信風",
+    "en": "Lovely Spring Breeze",
+    "desc": "From the midpack in the second half of the race, slightly increase velocity steadily for a duration based on remaining endurance.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8552,16 +8660,16 @@
   {
     "jp": "キラキラ☆STARDOM",
     "en": "SPARKLY☆STARDOM",
-    "desc": "Become empowered against ceding the spotlight when about to lose the lead on a straight mid-race.",
+    "desc": "Become empowered to keep the spotlight when positioned toward the front and close to the runner behind on a straight mid-race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "Do Ya Breakin!",
-    "desc": "終盤の直線で前方にいると意気揚々と速度を上げる、さらにそこが向正面の場合加速力をわずかに上げる",
+    "jp": "Do Ya Breakin!",
+    "en": "Break It Down!",
+    "desc": "If positioned toward the front on a straight late-race, increase velocity with high spirits. If the straight is on the backstretch, also increase acceleration very slightly.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8597,7 +8705,7 @@
   {
     "jp": "ブリリアント・レッドエース",
     "en": "Resplendent Red Ace",
-    "desc": "Swell with the determination to stay number one in the second half of the race.",
+    "desc": "Swell with the determination to be number one when positioned toward the front in the second half of the race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8615,14 +8723,14 @@
   {
     "jp": "ブレイズ・オブ・プライド",
     "en": "Blazing Pride",
-    "desc": "Increase velocity with the stride of an empress when passing another runner toward the back on the final corner.",
+    "desc": "Increase velocity with the stride of an empress when passing another runner from midpack or further back on the final corner.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "I Never Goof Up!",
+    "jp": "",
     "en": "I Never Goof Up!",
     "desc": "Aim for the front with unwavering determination when passing another runner from midpack or further back on a corner late-race.",
     "sp_cost": 0,
@@ -8667,18 +8775,18 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "Nemesis",
+    "jp": "",
     "en": "Nemesis",
-    "desc": "Increase velocity with smoldering ambition when moving up from a position toward the back of the pack on the final corner.",
+    "desc": "Increase velocity with smoldering ambition when moving up from midpack on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "烈火繚乱、無敵之舞",
-    "desc": "最終コーナー以降に追い抜いていた場合残り300mを切って先団にいるとき烈火の如き闘争心で速度が上がる",
+    "jp": "烈火繚乱、無敵之舞",
+    "en": "Peerless Dance of Flowering Flames",
+    "desc": "If the skill user passes another runner on the final corner or later, increase velocity with fiery fighting spirit when in the front part of the pack with 300m remaining.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8694,9 +8802,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "彼方、その先へ…",
-    "desc": "掛からず、中盤の最終コーナーか終盤の最終コーナーではないコーナーを中団で進むと奮い立ち加速力が上がる",
+    "jp": "彼方、その先へ…",
+    "en": "Moving Past, and Beyond",
+    "desc": "Having run the race calmly, increase acceleration with hardened determination when making a move mid-race, or on a crucial corner late-race whilst in midpack.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8793,9 +8901,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "いただき☆ストレリチア！",
-    "desc": "最終コーナー突入時まで冷静に後方で控えていると残り300m地点でスピードアップの魔法をかけて速度を上げ続ける",
+    "jp": "いただき☆ストレリチア！",
+    "en": "Victory belongs to me—Strelitzia! ☆",
+    "desc": "If positioned toward the back until the start of the final corner, when there are 300m remaining, cast a magic spell to increase velocity continuously.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8813,16 +8921,16 @@
   {
     "jp": "",
     "en": "Presents from X",
-    "desc": "スタート後からレース後半まで好位置を維持し続けるとレース中盤に勝利への道筋を見出し速度を上げる",
+    "desc": "Increase velocity by deriving a path to victory mid-race after staying well-positioned from the start of the race up until the second half.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "ぶっちぎりロード",
-    "desc": "スタート後からレース後半まで前方をキープすると気分を爆アゲして持久力を回復し速度を少し上げ続ける",
+    "jp": "ぶっちぎりロード",
+    "en": "Keep Pushing Ahead",
+    "desc": "If positioned toward the front from the start of the race until the second half of the race, good vibes recover endurance and moderately increase velocity steadily.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8838,9 +8946,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "憧れは桜を越える！",
-    "desc": "残り300mを切って好位置にいるとき前のウマ娘との距離が近いと強い想いが花開き速度が上がる",
+    "jp": "憧れは桜を越える！",
+    "en": "Ambition to Surpass the Sakura",
+    "desc": "Increase velocity with blossoming ambition when well-positioned and close to the runner ahead with 300m or less remaining.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8849,7 +8957,7 @@
   {
     "jp": "絶対は、ボクだ",
     "en": "Certain Victory",
-    "desc": "Increase velocity with an indomitable fighting spirit when on the heels of another runner toward the front on the final straight.",
+    "desc": "Greatly increase velocity with an indomitable fighting spirit on the final straight after being on the heels of another runner toward the front on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -8865,9 +8973,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "白い稲妻、見せたるで！",
-    "desc": "レース後半の直線で好位置にいるまたは中団から前を狙うと稲妻の如く駆けて行く",
+    "jp": "白い稲妻、見せたるで！",
+    "en": "White Lightning Comin' Through!",
+    "desc": "Bolt down the track like lightning when well-positioned or aiming for the front from midpack on a straight in the second half of the race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9000,6 +9108,24 @@
     "icon": "ic_skill_20013"
   },
   {
+    "jp": "",
+    "en": "地熱解放オーヴァードライブ",
+    "desc": "中盤が迫ったとき前方にいると短い間速度がすごく上がる、その後レース中間付近で詰め寄られると少し前に出る＜ダート＞",
+    "sp_cost": 0,
+    "satei": 340,
+    "ratio": 340.0,
+    "icon": "ic_skill_20013"
+  },
+  {
+    "jp": "",
+    "en": "湯守の和心",
+    "desc": "レース中盤始めに3番手以降ですぐ前かすぐ後ろにウマ娘が長くいると少しの間前に出るダートレースなら前に出続ける",
+    "sp_cost": 0,
+    "satei": 340,
+    "ratio": 340.0,
+    "icon": "ic_skill_20013"
+  },
+  {
     "jp": "波乱注意砲！",
     "en": "Warning Shot!",
     "desc": "Slightly increase velocity with a long spurt starting halfway through the race.",
@@ -9009,9 +9135,18 @@
     "icon": "ic_skill_20013"
   },
   {
+    "jp": "",
+    "en": "To Our Vista",
+    "desc": "レース中間地点で中団以降にいると少し前に出るマイルか中距離レースならすごく前に出る",
+    "sp_cost": 0,
+    "satei": 340,
+    "ratio": 340.0,
+    "icon": "ic_skill_20013"
+  },
+  {
     "jp": "ヴィクトリーショット！",
     "en": "Shooting for Victory!",
-    "desc": "Increase acceleration with a pow, a wow, and a bang when well-positioned on the final corner.",
+    "desc": "Increase acceleration with a pow, a wow, and a bang when well-positioned upon approaching the final straight.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9020,7 +9155,7 @@
   {
     "jp": "シューティングスター",
     "en": "Shooting Star",
-    "desc": "Ride the momentum and increase velocity after passing another runner toward the front late-race.",
+    "desc": "Ride the momentum to increase velocity and very slightly increase acceleration after passing another runner toward the front late-race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9029,7 +9164,7 @@
   {
     "jp": "勝利のキッス☆",
     "en": "1st Place Kiss☆",
-    "desc": "Slightly increase ability to break out of the pack on the straight after engaging in a challenge toward the front on the final corner.",
+    "desc": "Slightly increase ability to break out of the pack on the straight after engaging in a challenge toward the front on the final corner or later.",
     "sp_cost": 0,
     "satei": 240,
     "ratio": 240.0,
@@ -9081,9 +9216,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "Best day ever",
-    "desc": "終盤かつ最終コーナー以降に好位置にいると速度が上がるさらにゴールまで遠いと最高の走りで加速力がちょっと上がる",
+    "jp": "Best day ever",
+    "en": "Best Day Ever",
+    "desc": "If well-positioned late-race on the final corner or later, increase velocity. If there's a large distance left to the finish, also increase acceleration very slightly with perfect form.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9173,7 +9308,7 @@
   {
     "jp": "タイマン！デッドヒート！",
     "en": "You and Me! One-on-One!",
-    "desc": "Increase velocity when passing another runner on the outside toward the back on the final straight.",
+    "desc": "Increase velocity on the final straight after passing another runner on the outside toward the back on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9191,7 +9326,7 @@
   {
     "jp": "クリアハート",
     "en": "Clear Heart",
-    "desc": "Moderately recover endurance when well-positioned mid-race.",
+    "desc": "Recover endurance when well-positioned mid-race.",
     "sp_cost": 0,
     "satei": 240,
     "ratio": 240.0,
@@ -9209,7 +9344,7 @@
   {
     "jp": "ピュリティオブハート",
     "en": "Pure Heart",
-    "desc": "Recover endurance when well-positioned mid-race.",
+    "desc": "Greatly recover endurance when well-positioned mid-race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9218,7 +9353,7 @@
   {
     "jp": "勝利のチケットを、君にッ！",
     "en": "Our Ticket to Win!",
-    "desc": "Refuse to back down from a challenge, increasing velocity on the final straight.",
+    "desc": "Increase velocity with winning ambition when positioned toward the front on the final straight after engaging in a challenge on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9227,14 +9362,14 @@
   {
     "jp": "全力Vサインッ！",
     "en": "V Is for Victory!",
-    "desc": "Refuse to back down from a challenge, moderately increasing velocity on the final straight.",
+    "desc": "Moderately increase velocity with winning ambition when positioned toward the front on the final straight after engaging in a challenge on the final corner or later.",
     "sp_cost": 0,
     "satei": 240,
     "ratio": 240.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "#LookatCurren",
+    "jp": "",
     "en": "#LookatCurren",
     "desc": "Gain momentum and begin to advance when passing another runner while well-positioned around halfway through the race.",
     "sp_cost": 0,
@@ -9281,16 +9416,16 @@
   {
     "jp": "エンプレス・プライド",
     "en": "Empress's Pride",
-    "desc": "Moderately increase velocity with the stride of an empress when passing another runner toward the back on the final corner.",
+    "desc": "Moderately increase velocity with the stride of an empress when passing another runner from midpack or further back on the final corner.",
     "sp_cost": 0,
     "satei": 240,
     "ratio": 240.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "翳り退く、さざめきの矢",
-    "desc": "レース終盤に先団で詰め寄られると最終コーナー以降に闘志を燃やして速度を上げ続ける",
+    "jp": "翳り退く、さざめきの矢",
+    "en": "Arrows Whistle, Shadows Disperse",
+    "desc": "Increase velocity with a blazing spirit when pressured by another runner in the front part of the pack on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9315,27 +9450,27 @@
     "icon": "ic_skill_20043"
   },
   {
-    "jp": "",
-    "en": "オペレーション・Cacao",
-    "desc": "中盤のコーナーで先団を走行中後ろに他ウマ娘を検知するとわずかに息を入れ、速度が上がる",
+    "jp": "オペレーション・Cacao",
+    "en": "Operation Cacao",
+    "desc": "Take a slight breather and increase velocity when in the front part of the pack and detecting another runner coming from behind on a corner mid-race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "Shadow Break",
+    "jp": "",
     "en": "Shadow Break",
-    "desc": "Increase velocity with beastly strength when passing another runner on the outside on the final corner or later.",
+    "desc": "Increase velocity with beastly strength when passing another runner on the outside on the final corner or later. If the skill user engaged in a challenge mid-race, greatly increase velocity instead.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "聖夜のミラクルラン！",
-    "desc": "スキルで持久力を3回以上回復するとレース後半で勝利に向かい呼吸を整えて力強く踏み込んでいく",
+    "jp": "聖夜のミラクルラン！",
+    "en": "Festive Miracle",
+    "desc": "Control breathing and kick forward hard toward victory in the second half of the race after recovering endurance with skills at least 3 times.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9389,7 +9524,7 @@
   {
     "jp": "",
     "en": "Ravissant",
-    "desc": "最終コーナー以降に先団で追い抜くと煌めくような華麗な動きを披露し少しの間速度がすごく上がる",
+    "desc": "When passing another racer at the front part of the pack on the final corner or later, perform a dazzling display that greatly increases velocity for a moderate duration.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9443,7 +9578,7 @@
   {
     "jp": "レッドエース",
     "en": "Red Ace",
-    "desc": "Slightly swell with the determination to stay number one in the second half of the race.",
+    "desc": "Slightly swell with the determination to be number one when positioned toward the front in the second half of the race.",
     "sp_cost": 0,
     "satei": 240,
     "ratio": 240.0,
@@ -9468,9 +9603,9 @@
     "icon": "ic_skill_20013"
   },
   {
-    "jp": "",
-    "en": "尊み☆ﾗｽﾄｽﾊﾟ—(ﾟ∀ﾟ)—ﾄ!",
-    "desc": "レース終盤に2回追い抜くと間近で拝むウマ娘ちゃんのあまりの尊さに思わず速度を上げてコース取りがうまくなる",
+    "jp": "尊み☆ﾗｽﾄｽﾊﾟ—(ﾟ∀ﾟ)—ﾄ!",
+    "en": "OMG! (ﾟ∀ﾟ)  The Final Sprint! ☆",
+    "desc": "Increase velocity and navigation with the pure euphoria of being within breathing distance of precious waifus after passing another runner 2 times late-race.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9497,7 +9632,7 @@
   {
     "jp": "introduction：My body",
     "en": "Introduction to Physiology",
-    "desc": "Moderately recover endurance when conserving energy on a corner in the second half of the race.",
+    "desc": "Moderately recover endurance and slightly increase velocity for a moderate duration when sitting off the pace on a corner in the second half of the race.",
     "sp_cost": 0,
     "satei": 240,
     "ratio": 240.0,
@@ -9551,7 +9686,7 @@
   {
     "jp": "ブルーローズチェイサー",
     "en": "Blue Rose Closer",
-    "desc": "Increase velocity with strong willpower when breaking out of the pack on the final straight.",
+    "desc": "Increase velocity with strong willpower on the final straight after passing another runner in the front part of the pack on the final corner or later.",
     "sp_cost": 0,
     "satei": 340,
     "ratio": 340.0,
@@ -9596,7 +9731,7 @@
   {
     "jp": "シューティングスター",
     "en": "Shooting Star",
-    "desc": "Slightly increase velocity when passing another runner toward the front late-race.",
+    "desc": "Slightly increase velocity and very minimally increase acceleration after passing another runner toward the front late-race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9605,7 +9740,7 @@
   {
     "jp": "先頭の景色は譲らない…！",
     "en": "The View from the Lead Is Mine!",
-    "desc": "Slightly increase velocity when in the lead by a fair margin on the final straight.",
+    "desc": "Slightly increase velocity when in the lead by a fair margin in the second half of the race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9668,7 +9803,7 @@
   {
     "jp": "ブリリアント・レッドエース",
     "en": "Resplendent Red Ace",
-    "desc": "Very slightly swell with the determination to stay number one in the second half of the race.",
+    "desc": "Very slightly swell with the determination to be number one when positioned toward the front in the second half of the race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9686,7 +9821,7 @@
   {
     "jp": "ヴィクトリーショット！",
     "en": "Shooting for Victory!",
-    "desc": "Slightly increase acceleration when well-positioned on the final corner.",
+    "desc": "Slightly increase acceleration when well-positioned upon approaching the final straight.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9704,7 +9839,7 @@
   {
     "jp": "タイマン！デッドヒート！",
     "en": "You and Me! One-on-One!",
-    "desc": "Slightly increase velocity when passing another runner on the outside toward the back on the final straight.",
+    "desc": "Slightly increase velocity on the final straight after passing another runner on the outside toward the back on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9731,16 +9866,16 @@
   {
     "jp": "ヴィットーリアに捧ぐ舞踏",
     "en": "This Dance Is for Vittoria!",
-    "desc": "Slightly increase velocity when engaged in a challenge toward the front on the final corner.",
+    "desc": "Slightly increase velocity when positioned toward the front and close to the runner ahead or behind on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "Shadow Break",
+    "jp": "",
     "en": "Shadow Break",
-    "desc": "Slightly increase velocity when passing another runner on the outside on the final corner or later.",
+    "desc": "Slightly increase velocity when passing another runner on the outside on the final corner or later. If the skill user engaged in a challenge mid-race, moderately increase velocity instead.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9767,16 +9902,16 @@
   {
     "jp": "ブレイズ・オブ・プライド",
     "en": "Blazing Pride",
-    "desc": "Slightly increase velocity when passing another runner toward the back on the final corner.",
+    "desc": "Slightly increase velocity when passing another runner from midpack or further back on the final corner.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "尊み☆ﾗｽﾄｽﾊﾟ—(ﾟ∀ﾟ)—ﾄ!",
-    "desc": "レース終盤に2回追い抜くと速度をわずかに上げコース取りがわずかにうまくなる",
+    "jp": "尊み☆ﾗｽﾄｽﾊﾟ—(ﾟ∀ﾟ)—ﾄ!",
+    "en": "OMG! (ﾟ∀ﾟ)  The Final Sprint! ☆",
+    "desc": "Slightly increase velocity and navigation after passing another runner 2 times late-race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9792,9 +9927,18 @@
     "icon": "ic_skill_20041"
   },
   {
-    "jp": "",
-    "en": "白い稲妻、見せたるで！",
-    "desc": "レース後半の直線で好位置にいるまたは中団から前を狙うとわずかに駆けて行く",
+    "jp": "白い稲妻、見せたるで！",
+    "en": "White Lightning Comin' Through!",
+    "desc": "Slightly bolt down the track when well-positioned or aiming for the front from midpack on a straight in the second half of the race.",
+    "sp_cost": 200,
+    "satei": 180,
+    "ratio": 0.9,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "Fairy tale",
+    "en": "Fairy Tale",
+    "desc": "Slightly increase velocity when engaged in a challenge while well-positioned in the second half of the race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9802,17 +9946,8 @@
   },
   {
     "jp": "",
-    "en": "Fairy tale",
-    "desc": "レース後半に好位置で競り合うと速度をわずかに上げる",
-    "sp_cost": 200,
-    "satei": 180,
-    "ratio": 0.9,
-    "icon": "ic_skill_20011"
-  },
-  {
-    "jp": "∴win Q.E.D.",
     "en": "∴win Q.E.D.",
-    "desc": "Slightly increase velocity when passing another runner toward the front on the final corner.",
+    "desc": "Slightly increase velocity when passing another runner toward the front on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9830,7 +9965,7 @@
   {
     "jp": "ひらめき☆ランディング",
     "en": "Flashy☆Landing",
-    "desc": "Very slightly increase ability to break out of the pack on the straight after engaging in a challenge toward the front on the final corner.",
+    "desc": "Very slightly increase ability to break out of the pack on the straight after engaging in a challenge toward the front on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9846,9 +9981,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "アナタヲ・オイカケテ",
-    "desc": "レース後半に中団から速度をちょっとずつ上げ前方のウマ娘をほんのちょっと萎縮させる",
+    "jp": "アナタヲ・オイカケテ",
+    "en": "Chasing After You",
+    "desc": "Very slightly increase velocity steadily and very minimally intimidate runners ahead when in midpack in the second half of the race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9873,9 +10008,9 @@
     "icon": "ic_skill_20041"
   },
   {
-    "jp": "",
-    "en": "I'M☆FULL☆SPEED!!",
-    "desc": "レース中間に好位置で追い抜こうとすると速度がちょっと上がる短距離レースでは効果が変わりちょっと前に出る",
+    "jp": "I'M☆FULL☆SPEED!!",
+    "en": "YUMMY☆SPEED!",
+    "desc": "Very slightly kick forward when moderately tired while well-positioned halfway through the race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9893,7 +10028,16 @@
   {
     "jp": "ブルーローズチェイサー",
     "en": "Blue Rose Closer",
-    "desc": "Slightly increase velocity when breaking out of the pack on the final straight.",
+    "desc": "Slightly increase velocity on the final straight after passing another runner in the front part of the pack on the final corner or later.",
+    "sp_cost": 200,
+    "satei": 180,
+    "ratio": 0.9,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "チャージ完了！全速前進！",
+    "en": "All Charged! It's Go Time!",
+    "desc": "Very slightly increase velocity when positioned toward the front with about 300m remaining. If coming out of an uphill, moderately increase velocity instead.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9901,35 +10045,26 @@
   },
   {
     "jp": "",
-    "en": "チャージ完了！全速前進！",
-    "desc": "残り300m付近で前の方だと速度をちょっと上げる、ちょうど坂を上りきったところだった場合は少し上げる",
-    "sp_cost": 200,
-    "satei": 180,
-    "ratio": 0.9,
-    "icon": "ic_skill_20011"
-  },
-  {
-    "jp": "U=ma2",
     "en": "U=ma2",
-    "desc": "Slightly recover endurance when conserving energy on a corner in the second half of the race.",
+    "desc": "Slightly recover endurance and very slightly increase velocity for a moderate duration when sitting off the pace on a corner in the second half of the race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20021"
   },
   {
-    "jp": "",
-    "en": "ディオスクロイの流星",
-    "desc": "最終直線で先頭から離されていると速度がわずかに上がる最後方付近にいる場合は少し上がる",
+    "jp": "ディオスクロイの流星",
+    "en": "Shooting Star of Dioskouroi",
+    "desc": "Slightly increase velocity when far from the lead on the final straight. If positioned around the very back, moderately increase velocity instead.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "快走かな、快走かな！",
-    "desc": "レース前半中団以降に控え続けており追い比べをしていると速度を少し上げる",
+    "jp": "快走かな、快走かな！",
+    "en": "Now We're Cruisin'!",
+    "desc": "When competing for the lead if positioned in the midpack or further for the first half of the race, moderately increase velocity.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9938,7 +10073,7 @@
   {
     "jp": "勝利のチケットを、君にッ！",
     "en": "Our Ticket to Win!",
-    "desc": "Slightly increase velocity when refusing to back down from a challenge on the final straight.",
+    "desc": "Slightly increase velocity when positioned toward the front on the final straight after engaging in a challenge on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -9947,14 +10082,14 @@
   {
     "jp": "",
     "en": "trigger:BEAT",
-    "desc": "最終コーナー以降に中団の内ラチ側にいると最終直線で速度がわずかに上がりコース取りがわずかにうまくなる",
+    "desc": "When near the inner rail midpack on the final corner or later, slightly increase velocity and ability to navigate smoothly on the final straight.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "Schwarzes Schwert",
+    "jp": "",
     "en": "Schwarzes Schwert",
     "desc": "Slightly increase velocity in a dash for the lead after running calmly and according to plan up until the final straight.",
     "sp_cost": 200,
@@ -9963,7 +10098,7 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "#LookatCurren",
+    "jp": "",
     "en": "#LookatCurren",
     "desc": "Very slightly begin to advance when passing another runner while well-positioned around halfway through the race.",
     "sp_cost": 200,
@@ -9972,16 +10107,16 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "姫たるもの、勝利をこの手に",
-    "desc": "最終直線を走行中に競り合うと速度をわずかに上げる",
+    "jp": "姫たるもの、勝利をこの手に",
+    "en": "A Princess Must Seize Victory!",
+    "desc": "Slightly increase velocity when engaged in a challenge on the final straight.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "KEEP IT REAL.",
+    "jp": "",
     "en": "KEEP IT REAL.",
     "desc": "Very slightly increase acceleration steadily when starting to make a move from midpack in the second half of the race.",
     "sp_cost": 200,
@@ -10026,9 +10161,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "いただき☆ストレリチア！",
-    "desc": "最終コーナー突入時まで冷静に後方で控えていると残り300m地点から速度をわずかに上げ続ける",
+    "jp": "いただき☆ストレリチア！",
+    "en": "Victory belongs to me—Strelitzia! ☆",
+    "desc": "If positioned toward the back until the start of the final corner, when there are 300m remaining, slightly increase velocity continuously.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10046,7 +10181,7 @@
   {
     "jp": "ピュリティオブハート",
     "en": "Pure Heart",
-    "desc": "Slightly recover endurance when well-positioned mid-race.",
+    "desc": "Moderately recover endurance when well-positioned mid-race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10055,7 +10190,7 @@
   {
     "jp": "キラキラ☆STARDOM",
     "en": "SPARKLY☆STARDOM",
-    "desc": "Become very slightly empowered against ceding the spotlight when about to lose the lead on a straight mid-race.",
+    "desc": "Become very slightly empowered to keep the advantage when positioned toward the front and close to the runner behind on a straight mid-race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10071,9 +10206,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "YEAH☆VIVID TIME!",
-    "desc": "最終直線を走行中に前の方で追い抜こうとするか近寄られると速度をわずかに上げる",
+    "jp": "YEAH☆VIVID TIME!",
+    "en": "Pop & Polish",
+    "desc": "Slightly increase velocity when pressured by or passing another runner while well-positioned on the final straight.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10089,18 +10224,18 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "Nemesis",
+    "jp": "",
     "en": "Nemesis",
-    "desc": "Slightly increase velocity when moving up from a position toward the back of the pack on the final corner.",
+    "desc": "Slightly increase velocity when moving up from midpack on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "つぼみ、ほころぶ時",
-    "desc": "レース中盤のコーナーで競り合っていた場合、終盤かつ最終コーナー半ば以降に好位置にいると加速力がわずかに上がる",
+    "jp": "つぼみ、ほころぶ時",
+    "en": "Budding Blossom",
+    "desc": "If the skill user engaged in a challenge on a mid-race corner, slightly increase acceleration when well-positioned late-race at least halfway through the final corner.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10170,7 +10305,7 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "I Never Goof Up!",
+    "jp": "",
     "en": "I Never Goof Up!",
     "desc": "Very slightly aim for the front when passing another runner from midpack or further back on a corner late-race.",
     "sp_cost": 200,
@@ -10179,9 +10314,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "彼方、その先へ…",
-    "desc": "掛からず、中盤の最終コーナーか終盤の最終コーナーではないコーナーを中団で進むと加速力がわずかに上がる",
+    "jp": "彼方、その先へ…",
+    "en": "Moving Past, and Beyond",
+    "desc": "Having run the race calmly, slightly increase acceleration when making a move mid-race, or on a crucial corner late-race whilst in midpack.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10206,9 +10341,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "どんっ、パッ、むんっ",
-    "desc": "レース中間付近で中団にいるとき持久力をわずかに回復し速度がちょっと上がる",
+    "jp": "どんっ、パッ、むんっ",
+    "en": "Go, Go, Mun!",
+    "desc": "Slightly recover endurance and very slightly increase velocity when in midpack around halfway through the race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10224,9 +10359,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "ぶっちぎりロード",
-    "desc": "スタート後からレース後半まで前方をキープすると持久力をわずかに回復し速度をちょっと上げ続ける",
+    "jp": "ぶっちぎりロード",
+    "en": "Keep Pushing Ahead",
+    "desc": "If positioned toward the front from the start of the race until the second half of the race, slightly recover endurance and very slightly increase velocity steadily.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10251,27 +10386,27 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "晦冥を照らせ永遠の耀き",
-    "desc": "最終直線に入ったとき好位置につけていると速度がわずかに上がる先頭が近い場合は少し上がる",
+    "jp": "晦冥を照らせ永遠の耀き",
+    "en": "Eternal Encompassing Shine",
+    "desc": "If well-positioned at the start of the final straight, slightly increase velocity. If positioned near the front, moderately increase velocity instead.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "勝ち鬨ワッショイ！",
-    "desc": "前方にいるとき、レース後半の第3コーナーで速度をちょっと上げる、または終盤の向正面でちょっと前に踏み込む",
+    "jp": "勝ち鬨ワッショイ！",
+    "en": "Victory Cheer!",
+    "desc": "Very slightly increase velocity when positioned toward the front on the third corner in the second half of the race. Or, very slightly kick forward when toward the front on the backstretch late-race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "憧れは桜を越える！",
-    "desc": "残り300mを切って好位置にいるとき前のウマ娘との距離が近いと速度がわずかに上がる",
+    "jp": "憧れは桜を越える！",
+    "en": "Ambition to Surpass the Sakura",
+    "desc": "Slightly increase velocity when well-positioned and close to the runner ahead with 300m or less remaining.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10287,9 +10422,9 @@
     "icon": "ic_skill_20041"
   },
   {
-    "jp": "",
-    "en": "一期の夢、刹那の飛翔",
-    "desc": "最終直線で後ろのウマ娘と距離が近いと持久力をわずかに使い少しの間速度が少し上がる",
+    "jp": "一期の夢、刹那の飛翔",
+    "en": "A Lifelong Dream, A Moment's Flight",
+    "desc": "Slightly consume endurance to moderately increase velocity for a moderate duration when close to the runner behind on the final straight.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10305,9 +10440,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "烈火繚乱、無敵之舞",
-    "desc": "最終コーナー以降に追い抜いていた場合残り300mを切って先団にいるとき速度がわずかに上がる",
+    "jp": "烈火繚乱、無敵之舞",
+    "en": "Peerless Dance of Flowering Flames",
+    "desc": "If the skill user passed another runner on the final corner or later, slightly increase velocity when in the front part of the pack with 300m remaining.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10323,9 +10458,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "麗しき花信風",
-    "desc": "レース後半に中団から残り持久力に応じたロングスパートをかけて速度をほんのわずかに上げ続ける",
+    "jp": "麗しき花信風",
+    "en": "Lovely Spring Breeze",
+    "desc": "From the midpack in the second half of the race, minimally increase velocity steadily for a duration based on remaining endurance.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10739,7 +10874,7 @@
   {
     "jp": "絶対は、ボクだ",
     "en": "Certain Victory",
-    "desc": "Slightly increase velocity when on the heels of another runner toward the front on the final straight.",
+    "desc": "Moderately increase velocity on the final straight after being on the heels of another runner toward the front on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10757,7 +10892,7 @@
   {
     "jp": "",
     "en": "Ravissant",
-    "desc": "最終コーナー以降に先団で追い抜くと少しの間速度が少し上がる",
+    "desc": "When passing another racer at the front part of the pack on the final corner or later, moderately increase velocity for a moderate duration.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10773,9 +10908,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "聖夜のミラクルラン！",
-    "desc": "スキルで持久力を3回以上回復するとレース後半で勝利に向かいちょっと呼吸を整えて踏み込んでいく",
+    "jp": "聖夜のミラクルラン！",
+    "en": "Festive Miracle",
+    "desc": "Very slightly control breathing and kick forward toward victory in the second half of the race after recovering endurance with skills at least 3 times.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10838,7 +10973,7 @@
   {
     "jp": "",
     "en": "Joyful Voyage!",
-    "desc": "残り200m地点で前の方にいると速度をわずかに上げる、さらに先頭のウマ娘と近い場合ほんのわずかに前に出る",
+    "desc": "If positioned toward the front with 200m remaining, slightly increase velocity. Then, if also positioned near the leading Umamusume, move minimally forward.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10847,7 +10982,7 @@
   {
     "jp": "ゲインヒール・スペリアー",
     "en": "Superior Heal",
-    "desc": "Slightly recover endurance when dropping down toward the back mid-race.",
+    "desc": "Moderately recover endurance when overtaken toward the back mid-race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10865,7 +11000,7 @@
   {
     "jp": "最強の名を懸けて",
     "en": "Legacy of the Strong",
-    "desc": "Slightly increase velocity when pressured by another runner and running out of energy toward the front on the final corner or later.",
+    "desc": "Slightly increase velocity continuously when pressured by another runner and running out of energy toward the front on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10881,9 +11016,9 @@
     "icon": "ic_skill_20041"
   },
   {
-    "jp": "",
-    "en": "恵福バルカローレ",
-    "desc": "残り400m地点で先団だと速度をわずかに上げ、それまでに7回以上スキルを使っている場合は少し上げる",
+    "jp": "恵福バルカローレ",
+    "en": "Barcarole of Blessings",
+    "desc": "Slightly increase velocity for a moderate duration when in the front part of the pack with 400m remaining. If at least 7 skills have been activated, moderately increase velocity for a moderate duration instead.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10917,9 +11052,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "翳り退く、さざめきの矢",
-    "desc": "レース終盤に先団で詰め寄られると最終コーナー以降に速度をわずかに上げ続ける",
+    "jp": "翳り退く、さざめきの矢",
+    "en": "Arrows Whistle, Shadows Disperse",
+    "desc": "Slightly increase velocity when pressured by another runner in the front part of the pack on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10944,9 +11079,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "Do Ya Breakin!",
-    "desc": "終盤の直線で前方にいると速度がわずかに上がる、さらにそこが向正面の場合加速力がほんのわずかに上がる",
+    "jp": "Do Ya Breakin!",
+    "en": "Break It Down!",
+    "desc": "If positioned toward the front on a straight late-race, slightly increase velocity. If the straight is on the backstretch, also increase acceleration very minimally.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10973,7 +11108,7 @@
   {
     "jp": "",
     "en": "Best day ever",
-    "desc": "終盤かつ最終コーナー以降に好位置にいると速度がわずかに上がるさらにゴールまで遠いと加速力がほんのちょっと上がる",
+    "desc": "If well-positioned late-race on the final corner or later, slightly increase velocity. If there's a large distance left to the finish, also increase acceleration very minimally.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -10982,7 +11117,7 @@
   {
     "jp": "",
     "en": "Presents from X",
-    "desc": "スタート後からレース後半まで好位置を維持し続けるとレース中盤に速度をわずかに上げる",
+    "desc": "Slightly increase velocity mid-race after staying well-positioned from the start of the race up until the second half.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11007,9 +11142,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "オペレーション・Cacao",
-    "desc": "中盤のコーナーで先団を走行中後ろに他ウマ娘がいるとほんのわずかに息を入れ、速度がわずかに上がる",
+    "jp": "オペレーション・Cacao",
+    "en": "Operation Cacao",
+    "desc": "Take a minimal breather and slightly increase velocity when in the front part of the pack and there's another runner coming from behind on a corner mid-race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11034,9 +11169,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "Drain for rose",
-    "desc": "レース中盤で好位置だと前方のウマ娘から持久力をわずかに吸い取り自分の速度をちょっと上げる",
+    "jp": "Drain for rose",
+    "en": "Every Rose Has Its Fangs",
+    "desc": "Slightly drain endurance from runners ahead when well-positioned and pressured by another runner mid-race.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11098,8 +11233,17 @@
   },
   {
     "jp": "",
-    "en": "Guten Appetit♪",
-    "desc": "最終コーナー以降に2回追い抜くと最終直線で速度をわずかに上げ続ける",
+    "en": "地熱解放オーヴァードライブ",
+    "desc": "中盤が迫ったとき前方にいると短い間速度が少し上がる、その後レース中間付近で詰め寄られるとちょっと前に出る＜ダート＞",
+    "sp_cost": 200,
+    "satei": 180,
+    "ratio": 0.9,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "Guten Appetit♪",
+    "en": "Guten Appetit ♪",
+    "desc": "Slightly increase velocity continuously on the final straight after passing another runner 3 times on the final corner or later.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11108,7 +11252,7 @@
   {
     "jp": "",
     "en": "One True Color",
-    "desc": "残り350mを切って前の方で後ろのウマ娘との距離が近いとちょっと抜け出しやすくなる",
+    "desc": "If positioned toward the front with 350m remaining and there is another Umamusume close behind, break out of the pack slightly more easily.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11124,9 +11268,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "GET DOWN",
-    "desc": "最終コーナー走行中に中団で競り合うとちょっと抜け出しやすくなる",
+    "jp": "GET DOWN",
+    "en": "Dancing in the Leaves",
+    "desc": "Very slightly increase ability to break out of the pack when engaged in a challenge in midpack on the final corner.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11160,9 +11304,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "ぐるぐるマミートリック♡",
-    "desc": "最終直線を好位置で走行中前のウマ娘との距離が近いとちょっと抜け出しやすくなる",
+    "jp": "ぐるぐるマミートリック♡",
+    "en": "Give Mummy a Hug ♡",
+    "desc": "Very slightly increase ability to break out of the pack when well-positioned and close to the runner ahead on the final straight.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11181,6 +11325,15 @@
     "jp": "",
     "en": "未知との遭遇、即ち物語",
     "desc": "終盤の最終直線で前方にいると速度がちょっと上がる、さらに東京レース場の中距離か中山レース場の2500mのレースではちょっと前に出る",
+    "sp_cost": 200,
+    "satei": 180,
+    "ratio": 0.9,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "",
+    "en": "湯守の和心",
+    "desc": "レース中盤始めに3番手以降ですぐ前かすぐ後ろにウマ娘が長くいると少しの間わずかに前に出る",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11214,9 +11367,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "113転び114起き",
-    "desc": "最終コーナーで先頭から離されているとその距離が遠いほど頑張り続けて速度をちょっとずつ上げる",
+    "jp": "113転び114起き",
+    "en": "114th Time's the Charm",
+    "desc": "Give max effort when far from the lead on the final corner, very slightly increasing velocity steadily for a duration proportional to distance from the lead.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11242,6 +11395,15 @@
   },
   {
     "jp": "",
+    "en": "To Our Vista",
+    "desc": "レース中間地点で中団以降にいるとちょっと前に出る",
+    "sp_cost": 200,
+    "satei": 180,
+    "ratio": 0.9,
+    "icon": "ic_skill_20011"
+  },
+  {
+    "jp": "",
     "en": "爛然闊歩",
     "desc": "レース後半に後方にいると残りの持久力に応じたロングスパートをかけて速度をほんのわずかに上げ続ける",
     "sp_cost": 200,
@@ -11259,27 +11421,27 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "ときめきが呼ぶほうへ",
-    "desc": "終盤目前の下り坂で中団に控えていてゴールまで遠いと速度をわずかに上げる",
+    "jp": "ときめきが呼ぶほうへ",
+    "en": "Wherever This Wonder Leads",
+    "desc": "If positioned midpack on a downhill just before late-race and there's a large distance left to the finish, slightly increase velocity.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "Go☆Go☆for it!",
-    "desc": "最終コーナー以降に追い抜いていた場合最終直線で中団にいると速度がわずかに上がる人気が低い場合はわずかに上げ続ける",
+    "jp": "Go☆Go☆for it!",
+    "en": "Go☆Go☆Goal!",
+    "desc": "If the skill user passed another runner on the final corner or later, slightly increase velocity from the midpack onward on the final straight. If the skill user isn't one of the top favorites, keep steadily increasing velocity slightly.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "轟！トレセン応援団！！",
-    "desc": "レース前半、掛からず最後方付近に控え続けていると、最終直線で加速力がわずかに上がる",
+    "jp": "轟！トレセン応援団！！",
+    "en": "Louder! Tracen Cheer!",
+    "desc": "If the skill user stayed toward the very back during the first half of the race without being rushed, slightly increase acceleration on the final straight.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
@@ -11457,9 +11619,9 @@
     "icon": "ic_skill_20011"
   },
   {
-    "jp": "",
-    "en": "威風堂々、夢錦！",
-    "desc": "終盤最終コーナーでスキルを発動すると速度をちょっと上げる中山レース場なら少し上げる",
+    "jp": "威風堂々、夢錦！",
+    "en": "Dreams Donned with Pride!",
+    "desc": "If the skill user activates another skill on the final corner late-race, very slightly increase velocity. If racing at Nakayama Racecourse, moderately increase velocity instead.",
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
