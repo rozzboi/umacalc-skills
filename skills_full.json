@@ -4845,7 +4845,7 @@
   "jp": "ミスティファイング・マーマー",
   "en": "Mystifying Murmur",
   "desc": "Some desc",
-  "values": [559, 559, 457, 406],
+  "values": [559, 457, 406, 356],
   "aptitude": "Medium",
   "icon": "ic_skill_xxx"
   },
