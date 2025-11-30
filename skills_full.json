@@ -5008,7 +5008,7 @@
     "en": "Gourmand",
     "desc": "Recover endurance mid-race. (Pace Chaser)",
     "sp_cost": 360,
-    "satei": 508,
+    "satei": 559,
     "ratio": 1.41,
     "icon": "ic_skill_20022"
   },
