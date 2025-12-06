@@ -6,7 +6,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "右回り○",
@@ -15,7 +19,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "左回り◎",
@@ -24,7 +32,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "左回り○",
@@ -33,7 +45,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "",
@@ -60,7 +76,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "東京レース場○",
@@ -69,7 +89,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "中山レース場◎",
@@ -78,7 +102,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "中山レース場○",
@@ -87,7 +115,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "阪神レース場◎",
@@ -96,7 +128,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "阪神レース場○",
@@ -105,7 +141,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "京都レース場◎",
@@ -114,7 +154,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "京都レース場○",
@@ -123,7 +167,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "中京レース場◎",
@@ -132,7 +180,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "中京レース場○",
@@ -141,7 +193,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "札幌レース場◎",
@@ -150,7 +206,11 @@
     "sp_cost": 160,
     "satei": 174,
     "ratio": 1.09,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "札幌レース場○",
@@ -159,7 +219,11 @@
     "sp_cost": 70,
     "satei": 129,
     "ratio": 1.84,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "函館レース場◎",
@@ -168,7 +232,11 @@
     "sp_cost": 160,
     "satei": 174,
     "ratio": 1.09,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "函館レース場○",
@@ -177,7 +245,11 @@
     "sp_cost": 70,
     "satei": 129,
     "ratio": 1.84,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "福島レース場◎",
@@ -186,7 +258,11 @@
     "sp_cost": 160,
     "satei": 174,
     "ratio": 1.09,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "福島レース場○",
@@ -195,7 +271,11 @@
     "sp_cost": 70,
     "satei": 129,
     "ratio": 1.84,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "新潟レース場◎",
@@ -204,7 +284,11 @@
     "sp_cost": 160,
     "satei": 174,
     "ratio": 1.09,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "新潟レース場○",
@@ -213,7 +297,11 @@
     "sp_cost": 70,
     "satei": 129,
     "ratio": 1.84,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "小倉レース場◎",
@@ -222,7 +310,11 @@
     "sp_cost": 160,
     "satei": 174,
     "ratio": 1.09,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "小倉レース場○",
@@ -231,7 +323,11 @@
     "sp_cost": 70,
     "satei": 129,
     "ratio": 1.84,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "大井レース場◎",
@@ -240,7 +336,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "大井レース場○",
@@ -249,7 +349,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "",
@@ -330,7 +434,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "根幹距離○",
@@ -339,7 +447,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "非根幹距離◎",
@@ -348,7 +460,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "非根幹距離○",
@@ -357,7 +473,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10021"
+    "icon": "ic_skill_10021",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "良バ場◎",
@@ -366,7 +486,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10031"
+    "icon": "ic_skill_10031",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "良バ場○",
@@ -375,7 +499,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10031"
+    "icon": "ic_skill_10031",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "道悪◎",
@@ -384,7 +512,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10031"
+    "icon": "ic_skill_10031",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "道悪○",
@@ -393,7 +525,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10031"
+    "icon": "ic_skill_10031",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "春ウマ娘◎",
@@ -402,7 +538,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "春ウマ娘○",
@@ -411,7 +551,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "夏ウマ娘◎",
@@ -420,7 +564,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "夏ウマ娘○",
@@ -429,7 +577,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "秋ウマ娘◎",
@@ -438,7 +590,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "秋ウマ娘○",
@@ -447,7 +603,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "冬ウマ娘◎",
@@ -456,7 +616,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "冬ウマ娘○",
@@ -465,7 +629,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "晴れの日◎",
@@ -474,7 +642,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "晴れの日○",
@@ -483,7 +655,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "曇りの日◎",
@@ -492,7 +668,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "曇りの日○",
@@ -501,7 +681,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "雨の日◎",
@@ -510,7 +694,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "雨の日○",
@@ -519,7 +707,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "雪の日◎",
@@ -528,7 +720,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "雪の日○",
@@ -537,7 +733,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "内枠得意◎",
@@ -546,7 +746,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10051"
+    "icon": "ic_skill_10051",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "内枠得意○",
@@ -555,7 +759,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10051"
+    "icon": "ic_skill_10051",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "外枠得意◎",
@@ -564,7 +772,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "外枠得意○",
@@ -573,7 +785,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "おひとり様◎",
@@ -582,7 +798,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "おひとり様○",
@@ -591,7 +811,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "対抗意識◎",
@@ -600,7 +824,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10031"
+    "icon": "ic_skill_10031",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "対抗意識○",
@@ -609,7 +837,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10031"
+    "icon": "ic_skill_10031",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "徹底マーク◎",
@@ -618,7 +850,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "徹底マーク○",
@@ -627,7 +863,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10041"
+    "icon": "ic_skill_10041",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "伏兵◎",
@@ -636,7 +876,11 @@
     "sp_cost": 200,
     "satei": 174,
     "ratio": 0.87,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "伏兵○",
@@ -645,7 +889,11 @@
     "sp_cost": 90,
     "satei": 129,
     "ratio": 1.43,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "",
@@ -708,7 +956,11 @@
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "コーナー加速○",
@@ -717,7 +969,11 @@
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "コーナー回復○",
@@ -726,7 +982,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "直線巧者",
@@ -735,7 +995,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "直線加速",
@@ -744,7 +1008,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "直線回復",
@@ -753,7 +1021,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "集中力",
@@ -762,7 +1034,11 @@
     "sp_cost": 140,
     "satei": 129,
     "ratio": 0.92,
-    "icon": "ic_skill_20061"
+    "icon": "ic_skill_20061",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "隠れ蓑",
@@ -771,7 +1047,11 @@
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "ポジションセンス",
@@ -780,7 +1060,11 @@
     "sp_cost": 120,
     "satei": 129,
     "ratio": 1.07,
-    "icon": "ic_skill_20051"
+    "icon": "ic_skill_20051",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "ペースアップ",
@@ -789,7 +1073,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "ペースキープ",
@@ -798,7 +1086,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "ウマ込み冷静",
@@ -807,7 +1099,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "垂れウマ回避",
@@ -816,7 +1112,11 @@
     "sp_cost": 150,
     "satei": 174,
     "ratio": 1.16,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "臨機応変",
@@ -825,7 +1125,11 @@
     "sp_cost": 120,
     "satei": 129,
     "ratio": 1.07,
-    "icon": "ic_skill_20051"
+    "icon": "ic_skill_20051",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "末脚",
@@ -834,7 +1138,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "トリック（前）",
@@ -843,7 +1151,11 @@
     "sp_cost": 140,
     "satei": 217,
     "ratio": 1.55,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "トリック（後）",
@@ -852,7 +1164,11 @@
     "sp_cost": 140,
     "satei": 217,
     "ratio": 1.55,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "逃げ駆け引き",
@@ -861,7 +1177,11 @@
     "sp_cost": 130,
     "satei": 174,
     "ratio": 1.34,
-    "icon": "ic_skill_30041"
+    "icon": "ic_skill_30041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "先行駆け引き",
@@ -870,7 +1190,11 @@
     "sp_cost": 130,
     "satei": 174,
     "ratio": 1.34,
-    "icon": "ic_skill_30041"
+    "icon": "ic_skill_30041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "差し駆け引き",
@@ -879,7 +1203,11 @@
     "sp_cost": 130,
     "satei": 174,
     "ratio": 1.34,
-    "icon": "ic_skill_30041"
+    "icon": "ic_skill_30041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "追込駆け引き",
@@ -888,7 +1216,11 @@
     "sp_cost": 130,
     "satei": 174,
     "ratio": 1.34,
-    "icon": "ic_skill_30041"
+    "icon": "ic_skill_30041",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "逃げけん制",
@@ -897,7 +1229,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "逃げ焦り",
@@ -906,7 +1242,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "逃げためらい",
@@ -915,7 +1255,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30011"
+    "icon": "ic_skill_30011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "先行けん制",
@@ -924,7 +1268,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "先行焦り",
@@ -933,7 +1281,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "先行ためらい",
@@ -942,7 +1294,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30011"
+    "icon": "ic_skill_30011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "差しけん制",
@@ -951,7 +1307,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "差し焦り",
@@ -960,7 +1320,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "差しためらい",
@@ -969,7 +1333,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30011"
+    "icon": "ic_skill_30011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "追込けん制",
@@ -978,7 +1346,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "追込焦り",
@@ -987,7 +1359,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30051"
+    "icon": "ic_skill_30051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "追込ためらい",
@@ -996,7 +1372,11 @@
     "sp_cost": 130,
     "satei": 217,
     "ratio": 1.67,
-    "icon": "ic_skill_30011"
+    "icon": "ic_skill_30011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "差しコーナー◎",
@@ -1014,7 +1394,11 @@
     "sp_cost": 110,
     "satei": 174,
     "ratio": 1.58,
-    "icon": "ic_skill_10061"
+    "icon": "ic_skill_10061",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "スリーセブン",
@@ -1023,7 +1407,11 @@
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "登山家",
@@ -1032,7 +1420,11 @@
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "ウマ好み",
@@ -1041,7 +1433,11 @@
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "地固め",
@@ -1050,7 +1446,11 @@
     "sp_cost": 100,
     "satei": 217,
     "ratio": 2.17,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "尻尾上がり",
@@ -1059,7 +1459,11 @@
     "sp_cost": 100,
     "satei": 217,
     "ratio": 2.17,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "ふり絞り",
@@ -1068,7 +1472,11 @@
     "sp_cost": 100,
     "satei": 217,
     "ratio": 2.17,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "シンパシー",
@@ -1077,7 +1485,11 @@
     "sp_cost": 70,
     "satei": 129,
     "ratio": 1.84,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "一匹狼",
@@ -1086,7 +1498,11 @@
     "sp_cost": 70,
     "satei": 129,
     "ratio": 1.84,
-    "icon": "ic_skill_10011"
+    "icon": "ic_skill_10011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "スリップストリーム",
@@ -1095,7 +1511,11 @@
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "遊びはおしまいっ！",
@@ -1104,7 +1524,11 @@
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "レコメンド",
@@ -1113,7 +1537,11 @@
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "前列狙い",
@@ -1122,7 +1550,11 @@
     "sp_cost": 140,
     "satei": 174,
     "ratio": 1.24,
-    "icon": "ic_skill_20051"
+    "icon": "ic_skill_20051",
+    "aptitude": "",
+    "values": [
+      174
+    ]
   },
   {
     "jp": "砂塵慣れ",
@@ -1131,7 +1563,11 @@
     "sp_cost": 180,
     "satei": 217,
     "ratio": 1.21,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "あやしげな作戦",
@@ -1140,7 +1576,11 @@
     "sp_cost": 120,
     "satei": 129,
     "ratio": 1.07,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      129
+    ]
   },
   {
     "jp": "自制心",
@@ -1149,7 +1589,11 @@
     "sp_cost": 160,
     "satei": 217,
     "ratio": 1.36,
-    "icon": "ic_skill_10051"
+    "icon": "ic_skill_10051",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "下り坂巧者",
@@ -1158,7 +1602,11 @@
     "sp_cost": 170,
     "satei": 217,
     "ratio": 1.28,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      217
+    ]
   },
   {
     "jp": "",
@@ -2724,7 +3172,11 @@
     "sp_cost": 200,
     "satei": 263,
     "ratio": 1.31,
-    "icon": "ic_skill_20101"
+    "icon": "ic_skill_20101",
+    "aptitude": "",
+    "values": [
+      263
+    ]
   },
   {
     "jp": "アオハル点火・体",
@@ -2733,7 +3185,11 @@
     "sp_cost": 200,
     "satei": 263,
     "ratio": 1.31,
-    "icon": "ic_skill_20111"
+    "icon": "ic_skill_20111",
+    "aptitude": "",
+    "values": [
+      263
+    ]
   },
   {
     "jp": "アオハル点火・力",
@@ -2742,7 +3198,11 @@
     "sp_cost": 200,
     "satei": 263,
     "ratio": 1.31,
-    "icon": "ic_skill_20121"
+    "icon": "ic_skill_20121",
+    "aptitude": "",
+    "values": [
+      263
+    ]
   },
   {
     "jp": "アオハル点火・根",
@@ -2760,7 +3220,11 @@
     "sp_cost": 200,
     "satei": 263,
     "ratio": 1.31,
-    "icon": "ic_skill_20131"
+    "icon": "ic_skill_20131",
+    "aptitude": "",
+    "values": [
+      263
+    ]
   },
   {
     "jp": "綺羅星",
@@ -2769,7 +3233,11 @@
     "sp_cost": 200,
     "satei": 263,
     "ratio": 1.31,
-    "icon": "ic_skill_20141"
+    "icon": "ic_skill_20141",
+    "aptitude": "",
+    "values": [
+      263
+    ]
   },
   {
     "jp": "",
@@ -3147,7 +3615,14 @@
     "sp_cost": 200,
     "satei": 370,
     "ratio": 1.85,
-    "icon": "ic_skill_40012"
+    "icon": "ic_skill_40012",
+    "aptitude": "Front",
+    "values": [
+      407,
+      333,
+      296,
+      259
+    ]
   },
   {
     "jp": "右回りの鬼",
@@ -3156,7 +3631,11 @@
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
-    "icon": "ic_skill_10012"
+    "icon": "ic_skill_10012",
+    "aptitude": "",
+    "values": [
+      461
+    ]
   },
   {
     "jp": "",
@@ -3183,7 +3662,11 @@
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
-    "icon": "ic_skill_10022"
+    "icon": "ic_skill_10022",
+    "aptitude": "",
+    "values": [
+      461
+    ]
   },
   {
     "jp": "",
@@ -3201,7 +3684,11 @@
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
-    "icon": "ic_skill_10032"
+    "icon": "ic_skill_10032",
+    "aptitude": "",
+    "values": [
+      461
+    ]
   },
   {
     "jp": "",
@@ -3219,7 +3706,11 @@
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
-    "icon": "ic_skill_10012"
+    "icon": "ic_skill_10012",
+    "aptitude": "",
+    "values": [
+      461
+    ]
   },
   {
     "jp": "",
@@ -3237,7 +3728,11 @@
     "sp_cost": 330,
     "satei": 461,
     "ratio": 1.4,
-    "icon": "ic_skill_10012"
+    "icon": "ic_skill_10012",
+    "aptitude": "",
+    "values": [
+      461
+    ]
   },
   {
     "jp": "",
@@ -3264,7 +3759,11 @@
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "曲線のソムリエ",
@@ -3273,7 +3772,11 @@
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
-    "icon": "ic_skill_20042"
+    "icon": "ic_skill_20042",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "円弧のマエストロ",
@@ -3282,7 +3785,11 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_20022"
+    "icon": "ic_skill_20022",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "ハヤテ一文字",
@@ -3291,7 +3798,11 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "一陣の風",
@@ -3300,7 +3811,11 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_20042"
+    "icon": "ic_skill_20042",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "好転一息",
@@ -3309,7 +3824,11 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_20022"
+    "icon": "ic_skill_20022",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "コンセントレーション",
@@ -3318,7 +3837,11 @@
     "sp_cost": 280,
     "satei": 394,
     "ratio": 1.41,
-    "icon": "ic_skill_20062"
+    "icon": "ic_skill_20062",
+    "aptitude": "",
+    "values": [
+      394
+    ]
   },
   {
     "jp": "鋼の意志",
@@ -3327,7 +3850,11 @@
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
-    "icon": "ic_skill_20022"
+    "icon": "ic_skill_20022",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "注目の踊り子",
@@ -3336,7 +3863,11 @@
     "sp_cost": 240,
     "satei": 334,
     "ratio": 1.39,
-    "icon": "ic_skill_20052"
+    "icon": "ic_skill_20052",
+    "aptitude": "",
+    "values": [
+      334
+    ]
   },
   {
     "jp": "アガッてきた！",
@@ -3345,7 +3876,11 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "不屈の心",
@@ -3354,7 +3889,11 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_20022"
+    "icon": "ic_skill_20022",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "どこ吹く風",
@@ -3363,7 +3902,11 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_20022"
+    "icon": "ic_skill_20022",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "ノンストップガール",
@@ -3372,7 +3915,11 @@
     "sp_cost": 300,
     "satei": 394,
     "ratio": 1.31,
-    "icon": "ic_skill_20042"
+    "icon": "ic_skill_20042",
+    "aptitude": "",
+    "values": [
+      394
+    ]
   },
   {
     "jp": "レーンの魔術師",
@@ -3381,7 +3928,11 @@
     "sp_cost": 240,
     "satei": 334,
     "ratio": 1.39,
-    "icon": "ic_skill_20052"
+    "icon": "ic_skill_20052",
+    "aptitude": "",
+    "values": [
+      334
+    ]
   },
   {
     "jp": "全身全霊",
@@ -3390,7 +3941,11 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "見惚れるトリック",
@@ -3399,7 +3954,11 @@
     "sp_cost": 280,
     "satei": 508,
     "ratio": 1.81,
-    "icon": "ic_skill_30052"
+    "icon": "ic_skill_30052",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "",
@@ -3426,7 +3985,14 @@
     "sp_cost": 340,
     "satei": 508,
     "ratio": 1.49,
-    "icon": "ic_skill_30012"
+    "icon": "ic_skill_30012",
+    "aptitude": "Sprint",
+    "values": [
+      559,
+      457,
+      406,
+      356
+    ]
   },
   {
     "jp": "逃亡禁止令",
@@ -3471,7 +4037,14 @@
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
-    "icon": "ic_skill_30022"
+    "icon": "ic_skill_30022",
+    "aptitude": "Mile",
+    "values": [
+      559,
+      457,
+      406,
+      356
+    ]
   },
   {
     "jp": "独占力",
@@ -3480,7 +4053,14 @@
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
-    "icon": "ic_skill_30012"
+    "icon": "ic_skill_30012",
+    "aptitude": "Medium",
+    "values": [
+      559,
+      457,
+      406,
+      356
+    ]
   },
   {
     "jp": "ミスティファイング・マーマー",
@@ -3511,7 +4091,14 @@
     "sp_cost": 320,
     "satei": 461,
     "ratio": 1.44,
-    "icon": "ic_skill_30052"
+    "icon": "ic_skill_30052",
+    "aptitude": "Long",
+    "values": [
+      507,
+      415,
+      369,
+      323
+    ]
   },
   {
     "jp": "奇術師",
@@ -3520,7 +4107,14 @@
     "sp_cost": 220,
     "satei": 334,
     "ratio": 1.52,
-    "icon": "ic_skill_30072"
+    "icon": "ic_skill_30072",
+    "aptitude": "Long",
+    "values": [
+      367,
+      301,
+      267,
+      234
+    ]
   },
   {
     "jp": "",
@@ -3574,7 +4168,14 @@
     "sp_cost": 220,
     "satei": 334,
     "ratio": 1.52,
-    "icon": "ic_skill_30072"
+    "icon": "ic_skill_30072",
+    "aptitude": "Pace",
+    "values": [
+      367,
+      301,
+      267,
+      234
+    ]
   },
   {
     "jp": "",
@@ -3601,7 +4202,14 @@
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
-    "icon": "ic_skill_30052"
+    "icon": "ic_skill_30052",
+    "aptitude": "Late",
+    "values": [
+      559,
+      457,
+      406,
+      356
+    ]
   },
   {
     "jp": "",
@@ -3619,7 +4227,14 @@
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
-    "icon": "ic_skill_30012"
+    "icon": "ic_skill_30012",
+    "aptitude": "End",
+    "values": [
+      559,
+      457,
+      406,
+      356
+    ]
   },
   {
     "jp": "スーパーラッキーセブン",
@@ -3628,7 +4243,11 @@
     "sp_cost": 220,
     "satei": 334,
     "ratio": 1.52,
-    "icon": "ic_skill_10062"
+    "icon": "ic_skill_10062",
+    "aptitude": "",
+    "values": [
+      334
+    ]
   },
   {
     "jp": "",
@@ -3646,7 +4265,11 @@
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "",
@@ -3664,7 +4287,11 @@
     "sp_cost": 280,
     "satei": 508,
     "ratio": 1.81,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "",
@@ -3691,7 +4318,11 @@
     "sp_cost": 320,
     "satei": 508,
     "ratio": 1.59,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "チャート急上昇！",
@@ -3700,7 +4331,11 @@
     "sp_cost": 360,
     "satei": 508,
     "ratio": 1.41,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "狙うは最前列！",
@@ -3709,7 +4344,11 @@
     "sp_cost": 280,
     "satei": 394,
     "ratio": 1.41,
-    "icon": "ic_skill_20052"
+    "icon": "ic_skill_20052",
+    "aptitude": "",
+    "values": [
+      394
+    ]
   },
   {
     "jp": "砂の玄人",
@@ -3718,7 +4357,11 @@
     "sp_cost": 380,
     "satei": 508,
     "ratio": 1.34,
-    "icon": "ic_skill_20022"
+    "icon": "ic_skill_20022",
+    "aptitude": "",
+    "values": [
+      508
+    ]
   },
   {
     "jp": "博打うち",
@@ -3727,7 +4370,11 @@
     "sp_cost": 240,
     "satei": 334,
     "ratio": 1.39,
-    "icon": "ic_skill_20012"
+    "icon": "ic_skill_20012",
+    "aptitude": "",
+    "values": [
+      334
+    ]
   },
   {
     "jp": "",
@@ -5023,7 +5670,11 @@
     "sp_cost": 400,
     "satei": 633,
     "ratio": 1.58,
-    "icon": "ic_skill_20102"
+    "icon": "ic_skill_20102",
+    "aptitude": "",
+    "values": [
+      633
+    ]
   },
   {
     "jp": "アオハル燃焼・体",
@@ -5032,7 +5683,11 @@
     "sp_cost": 400,
     "satei": 633,
     "ratio": 1.58,
-    "icon": "ic_skill_20112"
+    "icon": "ic_skill_20112",
+    "aptitude": "",
+    "values": [
+      633
+    ]
   },
   {
     "jp": "アオハル燃焼・力",
@@ -5041,7 +5696,11 @@
     "sp_cost": 400,
     "satei": 633,
     "ratio": 1.58,
-    "icon": "ic_skill_20122"
+    "icon": "ic_skill_20122",
+    "aptitude": "",
+    "values": [
+      633
+    ]
   },
   {
     "jp": "アオハル燃焼・根",
@@ -5059,7 +5718,11 @@
     "sp_cost": 400,
     "satei": 633,
     "ratio": 1.58,
-    "icon": "ic_skill_20132"
+    "icon": "ic_skill_20132",
+    "aptitude": "",
+    "values": [
+      633
+    ]
   },
   {
     "jp": "一番星",
@@ -5068,7 +5731,11 @@
     "sp_cost": 400,
     "satei": 633,
     "ratio": 1.58,
-    "icon": "ic_skill_20142"
+    "icon": "ic_skill_20142",
+    "aptitude": "",
+    "values": [
+      633
+    ]
   },
   {
     "jp": "",
@@ -5302,7 +5969,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10014"
+    "icon": "ic_skill_10014",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "左回り×",
@@ -5311,7 +5982,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10014"
+    "icon": "ic_skill_10014",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "",
@@ -5329,7 +6004,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "中山レース場×",
@@ -5338,7 +6017,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "阪神レース場×",
@@ -5347,7 +6030,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "京都レース場×",
@@ -5356,7 +6043,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "中京レース場×",
@@ -5365,7 +6056,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "札幌レース場×",
@@ -5374,7 +6069,11 @@
     "sp_cost": 200,
     "satei": -129,
     "ratio": -0.65,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "函館レース場×",
@@ -5383,7 +6082,11 @@
     "sp_cost": 200,
     "satei": -129,
     "ratio": -0.65,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "福島レース場×",
@@ -5392,7 +6095,11 @@
     "sp_cost": 200,
     "satei": -129,
     "ratio": -0.65,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "新潟レース場×",
@@ -5401,7 +6108,11 @@
     "sp_cost": 200,
     "satei": -129,
     "ratio": -0.65,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "小倉レース場×",
@@ -5410,7 +6121,11 @@
     "sp_cost": 200,
     "satei": -129,
     "ratio": -0.65,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "大井レース場×",
@@ -5419,7 +6134,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "",
@@ -5464,7 +6183,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "非根幹距離×",
@@ -5473,7 +6196,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "良バ場×",
@@ -5482,7 +6209,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10034"
+    "icon": "ic_skill_10034",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "道悪×",
@@ -5491,7 +6222,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10034"
+    "icon": "ic_skill_10034",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "春ウマ娘×",
@@ -5500,7 +6235,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10014"
+    "icon": "ic_skill_10014",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "夏ウマ娘×",
@@ -5509,7 +6248,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10014"
+    "icon": "ic_skill_10014",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "秋ウマ娘×",
@@ -5518,7 +6261,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10014"
+    "icon": "ic_skill_10014",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "冬ウマ娘×",
@@ -5527,7 +6274,11 @@
     "sp_cost": 380,
     "satei": -129,
     "ratio": -0.34,
-    "icon": "ic_skill_10014"
+    "icon": "ic_skill_10014",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "雨の日×",
@@ -5536,7 +6287,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10044"
+    "icon": "ic_skill_10044",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "内枠苦手",
@@ -5545,7 +6300,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10054"
+    "icon": "ic_skill_10054",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "外枠苦手",
@@ -5554,7 +6313,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10014"
+    "icon": "ic_skill_10014",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "引っ込み思案",
@@ -5563,7 +6326,11 @@
     "sp_cost": 250,
     "satei": -129,
     "ratio": -0.52,
-    "icon": "ic_skill_10034"
+    "icon": "ic_skill_10034",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "GⅠ苦手",
@@ -5572,7 +6339,11 @@
     "sp_cost": 50,
     "satei": -129,
     "ratio": -2.58,
-    "icon": "ic_skill_10014"
+    "icon": "ic_skill_10014",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "小心者",
@@ -5581,7 +6352,11 @@
     "sp_cost": 50,
     "satei": -129,
     "ratio": -2.58,
-    "icon": "ic_skill_10024"
+    "icon": "ic_skill_10024",
+    "aptitude": "",
+    "values": [
+      -129
+    ]
   },
   {
     "jp": "",
@@ -5617,7 +6392,11 @@
     "sp_cost": 460,
     "satei": -262,
     "ratio": -0.57,
-    "icon": "ic_skill_20014"
+    "icon": "ic_skill_20014",
+    "aptitude": "",
+    "values": [
+      -262
+    ]
   },
   {
     "jp": "コーナー加速×",
@@ -5626,7 +6405,11 @@
     "sp_cost": 460,
     "satei": -262,
     "ratio": -0.57,
-    "icon": "ic_skill_20044"
+    "icon": "ic_skill_20044",
+    "aptitude": "",
+    "values": [
+      -262
+    ]
   },
   {
     "jp": "コーナー回復×",
@@ -5635,7 +6418,11 @@
     "sp_cost": 440,
     "satei": -262,
     "ratio": -0.6,
-    "icon": "ic_skill_20024"
+    "icon": "ic_skill_20024",
+    "aptitude": "",
+    "values": [
+      -262
+    ]
   },
   {
     "jp": "坂苦手",
@@ -5662,7 +6449,11 @@
     "sp_cost": 100,
     "satei": -262,
     "ratio": -2.62,
-    "icon": "ic_skill_20014"
+    "icon": "ic_skill_20014",
+    "aptitude": "",
+    "values": [
+      -262
+    ]
   },
   {
     "jp": "手抜き癖",
@@ -5680,7 +6471,11 @@
     "sp_cost": 350,
     "satei": -174,
     "ratio": -0.5,
-    "icon": "ic_skill_20064"
+    "icon": "ic_skill_20064",
+    "aptitude": "",
+    "values": [
+      -174
+    ]
   },
   {
     "jp": "空回り",
@@ -6029,9 +6824,13 @@
     "en": "Chasing After You",
     "desc": "Chase after an unseen friend when in midpack in the second half of the race, moderately increasing velocity steadily and very slightly intimidating runners ahead.",
     "sp_cost": 0,
-    "satei": 340,
+    "satei": 180,
     "ratio": 340.0,
-    "icon": "ic_skill_20013"
+    "icon": "ic_skill_20013",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -6164,9 +6963,13 @@
     "en": "A Princess Must Seize Victory!",
     "desc": "Increase velocity with pretty princess power when engaged in a challenge on the final straight.",
     "sp_cost": 0,
-    "satei": 340,
+    "satei": 180,
     "ratio": 340.0,
-    "icon": "ic_skill_20013"
+    "icon": "ic_skill_20013",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -6335,9 +7138,13 @@
     "en": "Dancing in the Leaves",
     "desc": "Increase ability to break out of the pack when engaged in a challenge in midpack on the final corner.",
     "sp_cost": 0,
-    "satei": 340,
+    "satei": 180,
     "ratio": 340.0,
-    "icon": "ic_skill_20013"
+    "icon": "ic_skill_20013",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -6740,9 +7547,13 @@
     "en": "Pop & Polish",
     "desc": "Get hyped and increase velocity when pressured by or passing another runner while well-positioned on the final straight.",
     "sp_cost": 0,
-    "satei": 340,
+    "satei": 180,
     "ratio": 340.0,
-    "icon": "ic_skill_20013"
+    "icon": "ic_skill_20013",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -6866,9 +7677,13 @@
     "en": "Moving Past, and Beyond",
     "desc": "Having run the race calmly, increase acceleration with hardened determination when making a move mid-race, or on a crucial corner late-race whilst in midpack.",
     "sp_cost": 0,
-    "satei": 340,
+    "satei": 180,
     "ratio": 340.0,
-    "icon": "ic_skill_20043"
+    "icon": "ic_skill_20043",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7361,9 +8176,13 @@
     "en": "Arrows Whistle, Shadows Disperse",
     "desc": "Increase velocity with a blazing spirit when pressured by another runner in the front part of the pack on the final corner or later.",
     "sp_cost": 0,
-    "satei": 340,
+    "satei": 180,
     "ratio": 340.0,
-    "icon": "ic_skill_20013"
+    "icon": "ic_skill_20013",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7615,7 +8434,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "先頭の景色は譲らない…！",
@@ -7624,7 +8447,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "究極テイオーステップ",
@@ -7633,7 +8460,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "紅焔ギア/LP1211-M",
@@ -7642,7 +8473,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "煌星のヴォードヴィル",
@@ -7651,7 +8486,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "勝利の鼓動",
@@ -7660,7 +8499,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "不沈艦、抜錨ォッ！",
@@ -7669,7 +8512,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "カッティング×DRIVE！",
@@ -7678,7 +8525,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "ブリリアント・レッドエース",
@@ -7687,7 +8538,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7705,7 +8560,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "精神一到何事か成らざらん",
@@ -7714,7 +8573,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "タイマン！デッドヒート！",
@@ -7723,7 +8586,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "貴顕の使命を果たすべく",
@@ -7732,7 +8599,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "プランチャ☆ガナドール",
@@ -7741,7 +8612,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "ヴィットーリアに捧ぐ舞踏",
@@ -7750,7 +8625,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7759,7 +8638,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7777,7 +8660,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "ブレイズ・オブ・プライド",
@@ -7786,7 +8673,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "尊み☆ﾗｽﾄｽﾊﾟ—(ﾟ∀ﾟ)—ﾄ!",
@@ -7804,7 +8695,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "白い稲妻、見せたるで！",
@@ -7831,7 +8726,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7849,7 +8748,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7876,7 +8779,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "レッツ・アナボリック！",
@@ -7885,7 +8792,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "I'M☆FULL☆SPEED!!",
@@ -7894,7 +8805,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7912,7 +8827,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "チャージ完了！全速前進！",
@@ -7930,7 +8849,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "ディオスクロイの流星",
@@ -7957,7 +8880,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7975,7 +8902,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -7984,7 +8915,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "姫たるもの、勝利をこの手に",
@@ -8002,7 +8937,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "優等生×バクシン＝大勝利ッ",
@@ -8011,7 +8950,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -8065,7 +9008,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "キラキラ☆STARDOM",
@@ -8074,7 +9021,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -8110,7 +9061,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "つぼみ、ほころぶ時",
@@ -8128,7 +9083,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -8173,7 +9132,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -8191,7 +9154,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "彼方、その先へ…",
@@ -8209,7 +9176,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "Pride of KING",
@@ -8218,7 +9189,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "どんっ、パッ、むんっ",
@@ -8740,7 +9715,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -8758,7 +9737,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "グッときて♪Chu",
@@ -8767,7 +9750,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -8866,7 +9853,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -8884,7 +9875,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "コンドル猛撃波",
@@ -8893,7 +9888,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20041"
+    "icon": "ic_skill_20041",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "恵福バルカローレ",
@@ -8947,7 +9946,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -9010,7 +10013,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -9055,7 +10062,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20021"
+    "icon": "ic_skill_20021",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -9190,7 +10201,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -9271,7 +10286,11 @@
     "sp_cost": 200,
     "satei": 180,
     "ratio": 0.9,
-    "icon": "ic_skill_20011"
+    "icon": "ic_skill_20011",
+    "aptitude": "",
+    "values": [
+      180
+    ]
   },
   {
     "jp": "",
@@ -12263,5 +13282,51 @@
       60
     ],
     "aptitude": "Pace"
+  },
+  {
+    "en": "Burning Spirit GUT",
+    "jp": "",
+    "desc": "",
+    "icon": "",
+    "aptitude": "",
+    "satei": 633,
+    "values": [
+      633
+    ]
+  },
+  {
+    "en": "Ignited Spirit GUT",
+    "jp": "",
+    "desc": "",
+    "icon": "",
+    "aptitude": "",
+    "satei": 263,
+    "values": [
+      263
+    ]
+  },
+  {
+    "en": "Later Surger Corners ◎",
+    "jp": "",
+    "desc": "",
+    "icon": "",
+    "aptitude": "Late",
+    "values": [
+      288,
+      236,
+      210,
+      183
+    ]
+  },
+  {
+    "en": "OMG! (ﾟ∀ﾟ) The Final Sprint! ☆",
+    "jp": "",
+    "desc": "",
+    "icon": "",
+    "aptitude": "",
+    "satei": 180,
+    "values": [
+      180
+    ]
   }
 ]
